@@ -1,0 +1,5 @@
+customer_segment,repeat_orders,avg_days_between_purchases
+Regular,7156,191.6
+At Risk,2691,194.2
+New,6040,195.1
+VIP,2197,196.2

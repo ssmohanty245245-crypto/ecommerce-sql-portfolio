@@ -1,0 +1,2 @@
+total_lines,unknown_product_lines,zero_or_negative_quantity,non_positive_price,negative_discount,discount_above_50pct,selling_price_not_matching_discount,line_revenue_not_qty_x_price,price_differs_from_list_price
+65570,0,6,0,6,0,6,0,0

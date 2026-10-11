@@ -1,0 +1,7 @@
+return_reason,return_rows,units_returned,refund_value,pct_of_returns
+Late Delivery,321,321,99632.48,18.1
+Damaged,314,315,98731.21,17.7
+Size/Fit,304,307,91149.56,17.2
+Changed Mind,282,284,87377.93,15.9
+Wrong Item,278,278,78141.8,15.7
+Not as Described,273,273,87733.58,15.4

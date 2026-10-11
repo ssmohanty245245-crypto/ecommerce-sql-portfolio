@@ -1,0 +1,4 @@
+payment_recon_status,orders,order_total_value,successful_payment_value,uncollected_value
+Fully paid,25691,24386372.51,24386372.51,0.0
+No successful payment,3988,3742949.93,0.0,3742949.93
+Partially paid,321,317285.3,158642.74,158642.56

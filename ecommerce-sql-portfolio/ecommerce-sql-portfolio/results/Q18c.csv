@@ -1,0 +1,7 @@
+gap_bucket,repeat_orders,pct_of_gaps,avg_gap_days_in_bucket
+1) 0-30 days,2412,13.3,14.8
+2) 31-60 days,2082,11.5,45.2
+3) 61-90 days,1784,9.9,75.3
+4) 91-180 days,4283,23.7,133.1
+5) 181-365 days,4734,26.2,258.6
+6) 365+ days,2789,15.4,518.2

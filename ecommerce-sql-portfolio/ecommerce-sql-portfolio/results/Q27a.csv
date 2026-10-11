@@ -1,0 +1,9 @@
+acquisition_channel,first_orders,avg_first_order_value,avg_units,discount_rate_pct,pct_used_discount_code,pct_first_order_on_app,pct_placed_second_order
+Organic Search,1840,935.0,3.03,8.6,51.7,35.8,86.6
+Direct,1297,940.0,3.07,7.9,47.6,35.7,88.3
+Paid Search,1291,933.0,2.95,8.4,53.6,35.3,85.8
+Social Media,1240,976.0,3.11,8.3,53.5,35.6,86.0
+Email,719,929.0,2.96,8.7,51.7,36.2,88.2
+Referral,713,950.0,2.97,8.3,55.4,35.2,85.0
+Affiliate,542,911.0,3.0,8.9,53.3,33.4,89.9
+Unknown,18,859.0,2.83,6.9,44.4,38.9,77.8

@@ -1,0 +1,5 @@
+sales_channel,orders,pct_delivered,pct_shipped,pct_processing,pct_cancelled,pct_returned
+Mobile App,10669,76.2,5.8,3.8,7.8,6.3
+Website,10082,76.1,5.9,3.8,7.8,6.4
+Marketplace,6764,75.6,5.9,4.2,8.0,6.3
+Retail Partner,2485,76.6,5.7,3.9,8.4,5.4

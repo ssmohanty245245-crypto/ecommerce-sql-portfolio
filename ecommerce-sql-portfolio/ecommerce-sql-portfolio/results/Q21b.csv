@@ -1,0 +1,5 @@
+customer_segment,customers,avg_ltv_net_revenue,avg_orders_per_customer,repeat_rate_pct
+Regular,3114,2946.0,3.26,83.6
+VIP,969,2887.0,3.22,84.4
+New,2677,2883.0,3.22,83.1
+At Risk,1240,2735.0,3.12,81.4

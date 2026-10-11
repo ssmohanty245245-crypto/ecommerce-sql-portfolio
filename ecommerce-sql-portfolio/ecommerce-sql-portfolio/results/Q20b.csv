@@ -1,0 +1,5 @@
+customer_segment,customers,inactive_over_90d,inactive_over_180d,pct_inactive_180d,winback_reachable_180d
+VIP,969,700,521,53.8,342
+New,2677,1952,1441,53.8,974
+Regular,3114,2242,1658,53.2,1114
+At Risk,1240,893,656,52.9,463

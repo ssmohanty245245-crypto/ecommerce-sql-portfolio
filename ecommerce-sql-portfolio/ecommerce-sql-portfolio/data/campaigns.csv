@@ -1,0 +1,41 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget,target_segment
+CAM0001,Clearance Campaign 1,Direct,2023-07-28,2026-12-29,149585.05,VIP
+CAM0002,New User Campaign 2,Organic Search,2026-03-24,2026-12-07,40793.5,VIP
+CAM0003,Brand Campaign 3,Email,2024-12-30,2026-12-07,267474.64,Regular
+CAM0004,Weekend Campaign 4,Direct,2023-03-06,2026-11-19,95792.21,At Risk
+CAM0005,Retargeting Campaign 5,Affiliate,2026-01-02,2026-12-29,127117.84,Regular
+CAM0006,Clearance Campaign 6,Social Media,2024-09-26,2026-12-24,493134.61,At Risk
+CAM0007,Weekend Campaign 7,Social Media,2025-09-04,2026-11-03,434187.58,Regular
+CAM0008,New User Campaign 8,Social Media,2026-01-04,2026-09-17,168906.89,New
+CAM0009,Weekend Campaign 9,Direct,2025-03-12,2026-10-16,310346.29,At Risk
+CAM0010,New User Campaign 10,Social Media,2023-06-17,2026-11-29,118126.15,Regular
+CAM0011,Retargeting Campaign 11,Social Media,2024-09-13,2026-09-29,445311.43,New
+CAM0012,Retargeting Campaign 12,Referral,2025-09-16,2026-10-09,471234.91,VIP
+CAM0013,Clearance Campaign 13,Email,2025-04-17,2026-10-25,347925.13,At Risk
+CAM0014,Weekend Campaign 14,Social Media,2026-07-15,2026-10-05,39773.48,VIP
+CAM0015,Festive Campaign 15,Organic Search,2024-01-24,2026-09-25,306813.38,Regular
+CAM0016,New User Campaign 16,Email,2023-02-07,2026-11-02,445204.79,VIP
+CAM0017,Brand Campaign 17,Social Media,2026-05-04,2026-12-27,395109.42,At Risk
+CAM0018,Festive Campaign 18,Organic Search,2023-05-02,2026-11-23,17146.29,VIP
+CAM0019,Retargeting Campaign 19,Social Media,2024-01-07,2026-10-23,13847.23,New
+CAM0020,App Install Campaign 20,Paid Search,2025-08-07,2026-12-10,138612.2,At Risk
+CAM0021,App Install Campaign 21,Email,2023-08-25,2026-12-06,67855.41,VIP
+CAM0022,Retargeting Campaign 22,Referral,2023-09-11,2026-11-03,339952.82,At Risk
+CAM0023,Brand Campaign 23,Referral,2023-05-31,2026-09-03,142182.07,Regular
+CAM0024,App Install Campaign 24,Affiliate,2023-01-27,2026-09-18,303415.34,New
+CAM0025,Brand Campaign 25,Organic Search,2025-06-12,2026-10-08,46922.69,Regular
+CAM0026,Brand Campaign 26,Affiliate,2024-10-03,2026-11-05,199517.9,New
+CAM0027,Brand Campaign 27,Organic Search,2025-04-05,2026-11-13,314554.02,Regular
+CAM0028,New User Campaign 28,Direct,2025-10-09,2026-09-13,184349.82,VIP
+CAM0029,Weekend Campaign 29,Email,2023-02-06,2026-09-01,49217.96,Regular
+CAM0030,Retargeting Campaign 30,Affiliate,2024-07-12,2026-12-28,114977.68,VIP
+CAM0031,Retargeting Campaign 31,Paid Search,2023-05-11,2026-10-26,483514.16,New
+CAM0032,Clearance Campaign 32,Direct,2023-12-03,2026-09-28,351569.2,At Risk
+CAM0033,App Install Campaign 33,Organic Search,2023-08-24,2026-11-05,330069.54,VIP
+CAM0034,Clearance Campaign 34,Direct,2025-10-18,2026-10-15,175706.25,Regular
+CAM0035,New User Campaign 35,Organic Search,2025-04-03,2026-09-25,19969.22,At Risk
+CAM0036,Retargeting Campaign 36,Social Media,2026-04-02,2026-10-23,28369.37,VIP
+CAM0037,Summer Campaign 37,Social Media,2025-09-20,2026-09-04,43512.79,New
+CAM0038,App Install Campaign 38,Email,2025-08-25,2026-10-24,390568.12,Regular
+CAM0039,Weekend Campaign 39,Email,2024-10-09,2026-11-12,80815.69,At Risk
+CAM0040,App Install Campaign 40,Paid Search,2026-04-12,2026-11-01,91730.91,Regular

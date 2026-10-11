@@ -1,0 +1,9 @@
+relationship,orphan_rows
+orders.customer_id -> customers,0
+order_items.order_id -> orders,0
+order_items.product_id -> products,0
+payments.order_id -> orders,0
+returns.order_item_id -> order_items,0
+sessions.customer_id -> customers,0
+sessions.campaign_id -> campaigns,0
+orders with NO order_items (childless parents),0

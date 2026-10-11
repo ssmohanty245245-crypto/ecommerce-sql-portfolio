@@ -1,0 +1,8 @@
+check_name,rows_affected
+Orders placed before the customer signup_date,8501
+Sessions with negative duration,50
+Sessions dated BEFORE their campaign start_date,24665
+Sessions whose traffic_source differs from the campaign channel,59528
+Payments dated before the order date,0
+Orders where order_total <> item_subtotal + shipping_fee,0
+Orders where item_subtotal <> SUM(order_items.line_revenue),0

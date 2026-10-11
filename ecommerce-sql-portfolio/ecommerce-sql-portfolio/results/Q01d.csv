@@ -1,0 +1,13 @@
+table_name,column_name,total_rows,null_or_blank,unknown_values
+customers,city,8000,25,0
+customers,state,8000,0,0
+customers,acquisition_channel,8000,0,18
+orders,customer_id,30000,0,0
+orders,shipping_state,30000,20,0
+orders,shipping_city,30000,0,0
+order_items,product_id,65570,0,0
+payments,payment_method,31323,0,0
+returns,return_reason,1772,0,0
+website_sessions,customer_id,70000,9132,0
+website_sessions,campaign_id,70000,0,0
+website_sessions,session_duration_sec,70000,0,0

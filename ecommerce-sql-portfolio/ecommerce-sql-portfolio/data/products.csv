@@ -1,0 +1,601 @@
+product_id,product_name,category,brand,unit_cost,list_price,supplier_id,launch_date,is_active
+P00001,Premium Phone 1,Home & Kitchen,PlayForge,511.03,870.69,S0028,2026-05-08,Yes
+P00002,Pro Serum 2,Fashion,NovaTech,286.35,539.73,S0020,2023-11-24,Yes
+P00003,Compact T-Shirt 3,Beauty,NovaTech,222.95,416.39,S0070,2024-08-30,Yes
+P00004,Premium Backpack 4,Electronics,NovaTech,119.03,256.54,S0037,2021-08-14,Yes
+P00005,Premium Lamp 5,Books,ThreadLine,185.37,299.06,S0016,2025-05-28,Yes
+P00006,Ultra Phone 6,Fashion,Vertex,65.42,120.79,S0035,2023-08-15,Yes
+P00007,Smart Blender 7,Beauty,DailyHarvest,128.21,268.41,S0055,2021-12-30,Yes
+P00008,Compact Serum 8,Home & Kitchen,Vertex,82.48,134.76,S0065,2023-06-04,Yes
+P00009,Smart Headphones 9,Toys,ActivePeak,175.95,299.79,S0078,2025-03-11,Yes
+P00010,Compact Cookware 10,Electronics,PlayForge,270.5,575.31,S0014,2023-08-08,Yes
+P00011,Ultra Serum 11,Home & Kitchen,Aster,75.12,133.17,S0024,2021-04-26,Yes
+P00012,Everyday Lamp 12,Beauty,Vertex,237.74,477.77,S0038,2021-04-24,Yes
+P00013,Pro Phone 13,Books,ActivePeak,168.99,361.44,S0009,2026-06-10,Yes
+P00014,Classic Cookware 14,Electronics,DailyHarvest,231.48,414.93,S0077,2025-04-15,Yes
+P00015,Ultra Novel 15,Electronics,DailyHarvest,126.79,171.64,S0059,2022-08-18,Yes
+P00016,Pro T-Shirt 16,Fashion,ThreadLine,234.54,476.26,S0051,2022-04-24,Yes
+P00017,Compact Novel 17,Electronics,ActivePeak,94.42,191.38,S0051,2022-12-21,Yes
+P00018,Premium Blender 18,Grocery,DailyHarvest,49.73,67.59,S0019,2021-04-17,Yes
+P00019,Ultra Blender 19,Beauty,Aster,57.68,102.13,S0062,2021-11-11,Yes
+P00020,Essential Novel 20,Books,ThreadLine,107.04,183.33,S0010,2025-09-18,Yes
+P00021,Pro Phone 21,Books,ThreadLine,52.03,106.91,S0038,2026-03-27,Yes
+P00022,Everyday Headphones 22,Sports,ReadMore,406.56,614.27,S0003,2024-03-21,Yes
+P00023,Premium Building Set 23,Sports,PlayForge,140.63,232.74,S0048,2026-04-19,Yes
+P00024,Premium Headphones 24,Electronics,PlayForge,269.76,492.19,S0041,2025-08-13,Yes
+P00025,Pro Backpack 25,Sports,ReadMore,247.55,431.08,S0017,2024-03-29,Yes
+P00026,Essential Lamp 26,Books,PlayForge,149.03,321.5,S0073,2021-03-16,Yes
+P00027,Compact Cookware 27,Beauty,PlayForge,1478.44,3197.31,S0069,2024-10-04,Yes
+P00028,Premium Phone 28,Fashion,GlowPure,995.23,1321.16,S0015,2022-11-13,Yes
+P00029,Compact Yoga Mat 29,Home & Kitchen,DailyHarvest,366.77,562.24,S0056,2021-07-06,Yes
+P00030,Premium Serum 30,Home & Kitchen,DailyHarvest,82.4,103.59,S0076,2026-02-23,No
+P00031,Premium Building Set 31,Beauty,UrbanNest,376.69,620.4,S0078,2021-12-05,No
+P00032,Pro Coffee 32,Fashion,Aster,47.63,89.5,S0015,2026-01-21,Yes
+P00033,Essential T-Shirt 33,Beauty,ActivePeak,367.93,624.64,S0005,2024-11-13,Yes
+P00034,Essential Novel 34,Electronics,UrbanNest,28.18,37.02,S0044,2025-02-26,No
+P00035,Compact Backpack 35,Fashion,ThreadLine,120.62,173.23,S0003,2024-04-07,Yes
+P00036,Pro Cookware 36,Books,ThreadLine,325.69,460.73,S0047,2023-04-05,Yes
+P00037,Premium Lamp 37,Sports,ActivePeak,190.64,330.87,S0030,2021-02-22,Yes
+P00038,Classic Headphones 38,Electronics,DailyHarvest,56.77,107.51,S0012,2026-05-12,Yes
+P00039,Compact T-Shirt 39,Sports,ThreadLine,165.79,257.06,S0015,2021-09-14,Yes
+P00040,Everyday Building Set 40,Electronics,PlayForge,190.69,262.0,S0038,2025-05-15,No
+P00041,Pro Backpack 41,Electronics,ActivePeak,169.54,340.55,S0028,2024-05-30,Yes
+P00042,Compact Backpack 42,Electronics,Aster,113.89,235.23,S0049,2025-05-31,Yes
+P00043,Essential Phone 43,Toys,Aster,258.73,391.37,S0047,2021-02-15,Yes
+P00044,Compact Phone 44,Electronics,Aster,312.37,515.32,S0079,2024-07-07,Yes
+P00045,Essential Building Set 45,Toys,GlowPure,134.26,178.28,S0075,2021-01-15,Yes
+P00046,Pro Blender 46,Fashion,UrbanNest,398.53,584.37,S0012,2023-04-29,Yes
+P00047,Compact Lamp 47,Grocery,ReadMore,134.08,265.3,S0054,2022-09-20,Yes
+P00048,Essential Serum 48,Grocery,GlowPure,107.94,172.37,S0032,2021-01-12,Yes
+P00049,Everyday Building Set 49,Fashion,GlowPure,358.52,654.1,S0001,2021-01-01,Yes
+P00050,Everyday T-Shirt 50,Electronics,ActivePeak,350.12,752.36,S0016,2021-03-18,No
+P00051,Pro T-Shirt 51,Beauty,Vertex,99.18,192.16,S0011,2022-06-26,Yes
+P00052,Compact Cookware 52,Electronics,NovaTech,90.25,151.69,S0055,2025-10-04,Yes
+P00053,Pro Cookware 53,Electronics,ActivePeak,467.24,746.9,S0036,2023-09-23,Yes
+P00054,Ultra Lamp 54,Beauty,ActivePeak,138.83,198.67,S0030,2023-06-21,Yes
+P00055,Ultra Novel 55,Grocery,UrbanNest,148.73,292.75,S0068,2023-04-21,Yes
+P00056,Compact T-Shirt 56,Beauty,ThreadLine,125.97,170.92,S0056,2021-02-19,Yes
+P00057,Everyday Blender 57,Electronics,GlowPure,350.39,458.42,S0060,2025-07-24,Yes
+P00058,Smart Blender 58,Home & Kitchen,NovaTech,598.07,807.15,S0017,2023-10-27,Yes
+P00059,Classic Backpack 59,Home & Kitchen,Aster,155.32,229.99,S0033,2021-03-16,Yes
+P00060,Classic Backpack 60,Beauty,ThreadLine,714.45,1318.71,S0030,2021-12-12,Yes
+P00061,Ultra Lamp 61,Electronics,NovaTech,103.5,214.07,S0013,2026-02-27,Yes
+P00062,Premium Building Set 62,Books,NovaTech,123.49,270.81,S0012,2021-11-29,Yes
+P00063,Ultra Lamp 63,Grocery,Vertex,229.87,447.08,S0032,2022-11-09,Yes
+P00064,Everyday Headphones 64,Sports,GlowPure,87.27,121.19,S0034,2023-04-24,No
+P00065,Pro Headphones 65,Sports,GlowPure,227.95,345.08,S0012,2023-05-01,Yes
+P00066,Smart Backpack 66,Electronics,GlowPure,105.95,145.72,S0004,2024-07-21,Yes
+P00067,Premium Backpack 67,Electronics,Vertex,54.4,73.97,S0026,2025-03-14,Yes
+P00068,Pro Backpack 68,Electronics,DailyHarvest,47.82,85.57,S0064,2026-04-23,Yes
+P00069,Essential Blender 69,Sports,GlowPure,120.25,253.89,S0030,2025-08-19,Yes
+P00070,Pro Building Set 70,Sports,ReadMore,194.7,369.95,S0034,2021-09-25,Yes
+P00071,Classic Coffee 71,Beauty,UrbanNest,61.27,123.19,S0033,2025-02-12,Yes
+P00072,Smart Cookware 72,Grocery,ReadMore,166.68,288.81,S0031,2024-08-24,Yes
+P00073,Pro Headphones 73,Fashion,NovaTech,166.99,284.14,S0056,2025-10-07,Yes
+P00074,Classic Headphones 74,Beauty,ActivePeak,133.09,284.89,S0062,2023-01-26,Yes
+P00075,Premium Backpack 75,Beauty,DailyHarvest,81.28,157.35,S0031,2022-08-22,Yes
+P00076,Pro Backpack 76,Toys,NovaTech,173.5,292.59,S0077,2022-09-04,Yes
+P00077,Compact T-Shirt 77,Grocery,UrbanNest,135.3,211.87,S0024,2022-11-29,Yes
+P00078,Essential T-Shirt 78,Home & Kitchen,ThreadLine,280.94,376.03,S0069,2024-05-30,Yes
+P00079,Smart Lamp 79,Books,PlayForge,64.05,130.02,S0051,2021-10-05,Yes
+P00080,Essential Coffee 80,Beauty,DailyHarvest,159.82,225.48,S0065,2024-10-13,Yes
+P00081,Smart Blender 81,Grocery,GlowPure,64.93,112.93,S0009,2022-11-16,Yes
+P00082,Essential Yoga Mat 82,Beauty,DailyHarvest,127.22,236.05,S0008,2021-11-14,Yes
+P00083,Compact Phone 83,Beauty,NovaTech,72.84,142.54,S0036,2023-12-02,Yes
+P00084,Compact Lamp 84,Toys,ThreadLine,81.76,108.67,S0069,2023-12-27,Yes
+P00085,Premium Blender 85,Toys,GlowPure,148.04,186.55,S0056,2023-06-24,Yes
+P00086,Everyday Blender 86,Grocery,ActivePeak,102.75,197.35,S0046,2024-04-30,Yes
+P00087,Classic T-Shirt 87,Beauty,Vertex,385.04,647.51,S0010,2021-05-23,No
+P00088,Everyday Headphones 88,Fashion,UrbanNest,319.4,454.21,S0074,2026-05-04,Yes
+P00089,Classic Yoga Mat 89,Home & Kitchen,PlayForge,250.41,546.63,S0011,2021-06-03,Yes
+P00090,Ultra Serum 90,Sports,ThreadLine,247.21,494.86,S0008,2024-01-23,Yes
+P00091,Compact Cookware 91,Grocery,Aster,161.53,290.69,S0068,2024-05-05,Yes
+P00092,Pro Building Set 92,Books,UrbanNest,346.58,664.39,S0018,2022-01-13,Yes
+P00093,Essential Coffee 93,Electronics,Vertex,122.59,171.29,S0003,2025-06-19,Yes
+P00094,Everyday Blender 94,Sports,ThreadLine,588.51,1273.6,S0015,2024-11-07,No
+P00095,Compact Serum 95,Home & Kitchen,DailyHarvest,80.45,176.71,S0060,2023-01-31,Yes
+P00096,Premium Novel 96,Beauty,NovaTech,71.25,132.95,S0072,2022-06-18,Yes
+P00097,Smart Lamp 97,Sports,ActivePeak,59.94,112.98,S0055,2025-05-09,Yes
+P00098,Compact Lamp 98,Beauty,ActivePeak,67.12,128.82,S0070,2025-02-21,Yes
+P00099,Compact Phone 99,Grocery,ReadMore,51.47,96.89,S0032,2022-09-29,Yes
+P00100,Premium Cookware 100,Books,PlayForge,170.57,284.27,S0006,2023-04-06,Yes
+P00101,Smart Serum 101,Fashion,ThreadLine,258.52,455.94,S0016,2025-10-09,No
+P00102,Premium Phone 102,Grocery,ActivePeak,151.74,230.43,S0066,2022-11-24,Yes
+P00103,Essential Blender 103,Fashion,DailyHarvest,60.31,100.99,S0016,2026-03-06,Yes
+P00104,Compact Yoga Mat 104,Books,ReadMore,109.37,182.02,S0014,2023-02-26,Yes
+P00105,Everyday Serum 105,Books,UrbanNest,256.46,390.78,S0062,2021-06-11,Yes
+P00106,Classic Cookware 106,Home & Kitchen,PlayForge,118.84,237.37,S0018,2022-04-11,Yes
+P00107,Everyday Serum 107,Books,ThreadLine,88.33,144.79,S0008,2024-11-22,Yes
+P00108,Everyday Building Set 108,Sports,Aster,55.48,98.43,S0005,2021-10-05,Yes
+P00109,Compact Blender 109,Fashion,Vertex,112.75,157.66,S0041,2022-04-17,Yes
+P00110,Premium Backpack 110,Books,GlowPure,94.0,159.91,S0059,2021-05-21,Yes
+P00111,Ultra Novel 111,Home & Kitchen,GlowPure,140.31,276.89,S0009,2025-07-17,Yes
+P00112,Ultra Building Set 112,Grocery,GlowPure,202.28,338.27,S0042,2025-09-24,Yes
+P00113,Everyday Cookware 113,Toys,Aster,123.52,219.85,S0018,2025-05-11,Yes
+P00114,Smart Backpack 114,Home & Kitchen,Aster,167.36,320.77,S0046,2026-06-15,Yes
+P00115,Premium Phone 115,Toys,DailyHarvest,201.7,326.66,S0048,2023-03-21,Yes
+P00116,Ultra Cookware 116,Toys,NovaTech,66.73,105.81,S0028,2024-06-24,Yes
+P00117,Essential Blender 117,Home & Kitchen,ThreadLine,505.69,673.3,S0037,2023-04-14,Yes
+P00118,Compact Serum 118,Sports,DailyHarvest,91.66,165.28,S0074,2022-12-04,Yes
+P00119,Compact Headphones 119,Books,PlayForge,207.63,398.98,S0020,2021-06-19,Yes
+P00120,Everyday T-Shirt 120,Sports,ReadMore,70.92,127.81,S0038,2021-08-07,No
+P00121,Ultra T-Shirt 121,Home & Kitchen,PlayForge,159.43,242.23,S0041,2021-02-03,Yes
+P00122,Pro Coffee 122,Electronics,NovaTech,163.27,244.78,S0062,2021-10-12,Yes
+P00123,Compact Blender 123,Grocery,DailyHarvest,436.34,611.54,S0020,2024-12-04,Yes
+P00124,Everyday Headphones 124,Toys,GlowPure,127.59,165.18,S0023,2024-12-01,Yes
+P00125,Premium Phone 125,Toys,NovaTech,345.38,571.79,S0050,2023-11-26,Yes
+P00126,Smart Blender 126,Books,GlowPure,179.25,251.4,S0005,2024-10-29,Yes
+P00127,Compact T-Shirt 127,Books,UrbanNest,494.66,942.95,S0060,2021-09-22,Yes
+P00128,Ultra Coffee 128,Sports,ActivePeak,46.66,100.96,S0073,2023-05-03,Yes
+P00129,Everyday Serum 129,Sports,NovaTech,203.04,267.97,S0043,2024-08-14,Yes
+P00130,Ultra Phone 130,Electronics,NovaTech,26.12,54.81,S0036,2025-10-30,Yes
+P00131,Classic Building Set 131,Sports,ActivePeak,142.92,267.95,S0003,2025-05-22,Yes
+P00132,Smart Building Set 132,Sports,UrbanNest,288.2,595.79,S0061,2021-01-07,Yes
+P00133,Pro Coffee 133,Books,Vertex,379.8,530.66,S0054,2021-01-23,Yes
+P00134,Pro Building Set 134,Fashion,Aster,239.87,506.4,S0036,2024-12-10,Yes
+P00135,Everyday T-Shirt 135,Electronics,PlayForge,122.87,265.4,S0045,2022-06-19,Yes
+P00136,Compact Yoga Mat 136,Toys,GlowPure,211.52,446.6,S0029,2024-07-19,Yes
+P00137,Compact Phone 137,Fashion,PlayForge,761.77,1520.66,S0026,2021-03-10,Yes
+P00138,Smart Cookware 138,Books,DailyHarvest,155.87,208.21,S0008,2021-01-13,Yes
+P00139,Essential Phone 139,Grocery,DailyHarvest,277.18,404.6,S0073,2024-07-13,Yes
+P00140,Smart Lamp 140,Electronics,DailyHarvest,112.27,237.73,S0022,2025-11-19,No
+P00141,Everyday Headphones 141,Electronics,ActivePeak,297.61,436.88,S0069,2025-05-14,Yes
+P00142,Classic Phone 142,Electronics,PlayForge,267.45,422.66,S0044,2021-09-15,Yes
+P00143,Premium T-Shirt 143,Sports,PlayForge,99.8,129.54,S0041,2022-12-21,Yes
+P00144,Premium Lamp 144,Home & Kitchen,UrbanNest,245.98,454.25,S0036,2023-08-06,Yes
+P00145,Premium Backpack 145,Beauty,ThreadLine,253.69,452.87,S0030,2025-07-23,No
+P00146,Compact Building Set 146,Home & Kitchen,UrbanNest,240.08,519.46,S0049,2025-09-30,Yes
+P00147,Premium Lamp 147,Sports,ThreadLine,144.5,303.12,S0017,2026-01-20,Yes
+P00148,Compact Lamp 148,Sports,Vertex,329.94,571.01,S0030,2024-07-22,Yes
+P00149,Smart Lamp 149,Toys,PlayForge,80.83,147.83,S0073,2024-01-26,Yes
+P00150,Premium Building Set 150,Toys,GlowPure,149.36,245.33,S0004,2023-11-18,Yes
+P00151,Essential Yoga Mat 151,Beauty,DailyHarvest,159.56,219.53,S0076,2022-10-07,Yes
+P00152,Compact Backpack 152,Sports,PlayForge,317.79,659.22,S0035,2026-02-11,Yes
+P00153,Essential Serum 153,Electronics,Aster,79.19,140.33,S0017,2022-02-18,Yes
+P00154,Pro Building Set 154,Grocery,ReadMore,173.59,287.14,S0007,2026-06-24,Yes
+P00155,Classic Backpack 155,Fashion,GlowPure,107.77,141.72,S0062,2025-12-16,No
+P00156,Pro Coffee 156,Fashion,ActivePeak,159.36,299.93,S0058,2024-02-02,Yes
+P00157,Essential Blender 157,Electronics,Aster,191.52,312.12,S0044,2023-12-02,Yes
+P00158,Smart Coffee 158,Toys,DailyHarvest,64.65,96.39,S0058,2022-10-27,Yes
+P00159,Premium Blender 159,Grocery,ThreadLine,337.52,703.03,S0053,2024-08-07,Yes
+P00160,Compact Headphones 160,Home & Kitchen,ThreadLine,196.0,279.19,S0072,2025-03-25,Yes
+P00161,Pro T-Shirt 161,Fashion,ActivePeak,84.94,147.73,S0009,2023-01-06,Yes
+P00162,Essential Blender 162,Grocery,Vertex,118.89,238.49,S0006,2023-11-29,Yes
+P00163,Compact Novel 163,Electronics,ActivePeak,391.99,806.17,S0019,2022-03-16,Yes
+P00164,Pro T-Shirt 164,Home & Kitchen,NovaTech,194.47,394.34,S0020,2023-11-28,Yes
+P00165,Everyday Headphones 165,Grocery,ActivePeak,79.27,166.61,S0064,2025-12-12,Yes
+P00166,Pro Lamp 166,Books,Vertex,89.19,123.55,S0027,2021-04-19,Yes
+P00167,Smart Backpack 167,Fashion,PlayForge,222.76,477.47,S0007,2022-03-06,Yes
+P00168,Pro Backpack 168,Electronics,Vertex,240.84,303.52,S0024,2024-12-15,Yes
+P00169,Premium T-Shirt 169,Fashion,Aster,187.89,280.54,S0008,2021-12-12,Yes
+P00170,Pro Blender 170,Fashion,Aster,122.8,163.3,S0067,2022-01-16,Yes
+P00171,Premium Cookware 171,Grocery,ActivePeak,251.21,539.66,S0011,2025-03-08,Yes
+P00172,Classic Yoga Mat 172,Grocery,ThreadLine,121.18,200.28,S0066,2025-05-15,Yes
+P00173,Pro Lamp 173,Fashion,UrbanNest,85.15,131.94,S0001,2022-07-28,Yes
+P00174,Compact Cookware 174,Grocery,Vertex,416.26,586.4,S0007,2025-03-14,Yes
+P00175,Essential Serum 175,Beauty,ActivePeak,203.92,285.09,S0024,2025-04-16,Yes
+P00176,Pro Headphones 176,Home & Kitchen,NovaTech,89.11,163.36,S0012,2023-11-20,Yes
+P00177,Everyday Yoga Mat 177,Fashion,UrbanNest,161.95,209.68,S0063,2025-05-21,Yes
+P00178,Smart Blender 178,Toys,UrbanNest,151.07,274.13,S0072,2023-02-14,Yes
+P00179,Ultra Yoga Mat 179,Grocery,GlowPure,118.22,234.78,S0013,2021-06-07,Yes
+P00180,Smart Phone 180,Toys,ReadMore,172.74,314.55,S0070,2024-03-30,Yes
+P00181,Essential T-Shirt 181,Toys,DailyHarvest,81.16,165.18,S0024,2024-10-23,Yes
+P00182,Pro T-Shirt 182,Grocery,ThreadLine,261.87,393.33,S0038,2024-10-14,Yes
+P00183,Everyday Headphones 183,Electronics,Aster,147.82,195.61,S0071,2022-09-15,Yes
+P00184,Ultra Headphones 184,Beauty,Aster,52.14,100.89,S0010,2022-07-04,Yes
+P00185,Smart Blender 185,Sports,ReadMore,127.96,260.62,S0030,2022-12-25,Yes
+P00186,Premium Cookware 186,Sports,GlowPure,99.45,171.71,S0027,2024-11-27,Yes
+P00187,Classic Headphones 187,Home & Kitchen,DailyHarvest,21.25,43.13,S0030,2022-10-11,Yes
+P00188,Smart Novel 188,Electronics,Vertex,134.12,226.0,S0079,2026-02-21,Yes
+P00189,Classic Building Set 189,Toys,Vertex,291.17,418.88,S0002,2026-05-06,No
+P00190,Classic Phone 190,Beauty,ReadMore,138.37,235.32,S0008,2022-11-01,Yes
+P00191,Pro Novel 191,Toys,UrbanNest,235.17,342.21,S0017,2021-05-14,Yes
+P00192,Smart Novel 192,Electronics,UrbanNest,149.23,253.46,S0048,2022-12-02,Yes
+P00193,Compact Backpack 193,Grocery,Aster,110.32,153.36,S0064,2026-06-24,Yes
+P00194,Compact Backpack 194,Grocery,Vertex,92.25,131.57,S0061,2025-08-28,Yes
+P00195,Premium Novel 195,Grocery,ActivePeak,64.47,134.66,S0013,2022-08-14,Yes
+P00196,Ultra Lamp 196,Beauty,PlayForge,270.9,368.44,S0021,2024-06-29,Yes
+P00197,Classic Serum 197,Books,ReadMore,238.65,349.16,S0076,2026-06-14,Yes
+P00198,Classic T-Shirt 198,Books,Vertex,123.85,271.94,S0002,2021-07-25,Yes
+P00199,Ultra Phone 199,Books,ActivePeak,39.81,71.55,S0023,2021-05-28,Yes
+P00200,Classic Cookware 200,Beauty,DailyHarvest,201.71,364.39,S0016,2022-05-23,Yes
+P00201,Essential Building Set 201,Toys,GlowPure,82.43,169.21,S0013,2025-12-27,Yes
+P00202,Compact Yoga Mat 202,Sports,PlayForge,162.96,284.87,S0004,2022-06-14,Yes
+P00203,Classic Cookware 203,Books,Vertex,54.5,79.61,S0002,2021-07-10,Yes
+P00204,Premium Building Set 204,Toys,UrbanNest,157.56,260.19,S0065,2026-06-04,Yes
+P00205,Smart Coffee 205,Home & Kitchen,Vertex,136.27,268.08,S0026,2024-04-23,Yes
+P00206,Compact Serum 206,Home & Kitchen,DailyHarvest,30.99,64.42,S0030,2022-02-10,Yes
+P00207,Everyday Novel 207,Electronics,Aster,424.82,641.28,S0038,2024-05-25,Yes
+P00208,Pro Serum 208,Beauty,NovaTech,120.1,180.02,S0020,2021-03-29,Yes
+P00209,Compact Phone 209,Toys,Aster,125.4,195.78,S0025,2022-08-30,Yes
+P00210,Compact Building Set 210,Books,PlayForge,210.09,381.61,S0052,2024-12-27,Yes
+P00211,Essential Yoga Mat 211,Beauty,ActivePeak,143.6,217.49,S0010,2021-10-01,Yes
+P00212,Premium Yoga Mat 212,Fashion,ActivePeak,188.03,394.58,S0041,2023-09-21,Yes
+P00213,Essential Backpack 213,Home & Kitchen,PlayForge,70.54,153.71,S0061,2021-03-02,No
+P00214,Ultra Backpack 214,Beauty,Aster,135.31,256.43,S0002,2021-03-23,Yes
+P00215,Essential Phone 215,Electronics,GlowPure,42.9,93.17,S0007,2024-01-07,Yes
+P00216,Premium Yoga Mat 216,Books,NovaTech,127.17,193.74,S0060,2025-09-28,Yes
+P00217,Classic Lamp 217,Grocery,ReadMore,379.67,768.61,S0061,2026-04-11,Yes
+P00218,Pro Phone 218,Sports,NovaTech,55.76,105.64,S0080,2026-04-11,Yes
+P00219,Premium Lamp 219,Grocery,NovaTech,118.16,177.24,S0027,2024-09-06,Yes
+P00220,Ultra Novel 220,Books,DailyHarvest,37.32,57.94,S0001,2025-04-25,Yes
+P00221,Essential Building Set 221,Sports,GlowPure,149.18,255.72,S0027,2023-06-03,Yes
+P00222,Premium Building Set 222,Home & Kitchen,ActivePeak,200.94,402.29,S0080,2022-06-20,Yes
+P00223,Compact Yoga Mat 223,Grocery,Aster,190.43,395.83,S0060,2022-11-03,Yes
+P00224,Smart Cookware 224,Grocery,Aster,100.36,185.89,S0053,2024-07-13,Yes
+P00225,Ultra Phone 225,Books,NovaTech,36.83,71.28,S0036,2025-07-31,Yes
+P00226,Compact Novel 226,Home & Kitchen,Aster,66.22,99.37,S0080,2023-11-29,Yes
+P00227,Ultra Blender 227,Fashion,PlayForge,335.86,656.28,S0024,2023-06-18,Yes
+P00228,Essential Lamp 228,Toys,UrbanNest,262.79,479.52,S0035,2021-04-18,Yes
+P00229,Essential Backpack 229,Home & Kitchen,ReadMore,139.86,204.44,S0033,2025-10-29,Yes
+P00230,Premium Cookware 230,Beauty,Vertex,164.92,355.02,S0017,2025-05-24,No
+P00231,Pro Headphones 231,Beauty,UrbanNest,76.1,132.2,S0069,2024-07-10,Yes
+P00232,Pro Backpack 232,Beauty,ReadMore,343.41,688.45,S0035,2023-10-19,No
+P00233,Ultra Novel 233,Toys,ActivePeak,93.0,162.69,S0047,2022-01-31,Yes
+P00234,Ultra Cookware 234,Beauty,UrbanNest,197.2,421.28,S0059,2024-07-26,Yes
+P00235,Pro Headphones 235,Fashion,Vertex,62.61,86.67,S0061,2026-02-24,No
+P00236,Classic Serum 236,Grocery,UrbanNest,132.18,233.81,S0022,2023-08-17,Yes
+P00237,Ultra Backpack 237,Home & Kitchen,NovaTech,334.11,425.62,S0027,2022-06-13,Yes
+P00238,Ultra Backpack 238,Grocery,Vertex,80.2,115.29,S0072,2021-11-30,Yes
+P00239,Classic Lamp 239,Home & Kitchen,Vertex,241.55,366.43,S0015,2021-08-15,Yes
+P00240,Pro Building Set 240,Home & Kitchen,Vertex,73.52,124.91,S0036,2024-04-30,Yes
+P00241,Smart Yoga Mat 241,Grocery,DailyHarvest,82.58,167.57,S0057,2021-11-17,Yes
+P00242,Pro Serum 242,Toys,GlowPure,147.55,249.85,S0076,2021-12-08,Yes
+P00243,Ultra Lamp 243,Fashion,Vertex,279.1,497.67,S0041,2023-11-18,Yes
+P00244,Essential Coffee 244,Fashion,UrbanNest,122.26,260.15,S0045,2024-08-30,Yes
+P00245,Everyday Coffee 245,Beauty,NovaTech,221.87,436.8,S0043,2024-05-23,Yes
+P00246,Compact Headphones 246,Books,Aster,312.21,405.15,S0012,2021-01-18,Yes
+P00247,Everyday Cookware 247,Fashion,PlayForge,89.9,127.45,S0068,2024-02-08,Yes
+P00248,Classic Backpack 248,Fashion,ReadMore,55.07,70.84,S0067,2022-09-25,Yes
+P00249,Premium Yoga Mat 249,Electronics,ThreadLine,117.79,154.96,S0004,2022-05-08,Yes
+P00250,Essential Blender 250,Beauty,UrbanNest,339.51,533.68,S0065,2023-03-23,Yes
+P00251,Compact Backpack 251,Grocery,DailyHarvest,87.51,169.9,S0005,2025-05-19,Yes
+P00252,Pro Serum 252,Beauty,GlowPure,287.07,425.48,S0002,2025-04-22,Yes
+P00253,Compact T-Shirt 253,Electronics,ReadMore,125.13,203.04,S0046,2025-03-19,Yes
+P00254,Smart Phone 254,Home & Kitchen,GlowPure,464.77,754.87,S0075,2021-09-27,Yes
+P00255,Compact Coffee 255,Books,Vertex,638.76,1156.66,S0009,2023-09-26,Yes
+P00256,Premium Coffee 256,Toys,ActivePeak,290.17,608.86,S0008,2021-05-15,Yes
+P00257,Ultra Backpack 257,Electronics,ReadMore,50.89,111.15,S0058,2022-05-27,Yes
+P00258,Compact Cookware 258,Electronics,Vertex,31.12,56.77,S0063,2022-02-05,Yes
+P00259,Ultra Coffee 259,Books,ReadMore,154.43,267.14,S0061,2026-06-13,Yes
+P00260,Ultra Serum 260,Toys,UrbanNest,267.55,507.75,S0015,2025-02-27,Yes
+P00261,Classic Backpack 261,Grocery,NovaTech,205.54,387.37,S0073,2024-01-12,Yes
+P00262,Smart Blender 262,Grocery,Vertex,92.73,162.07,S0042,2025-10-09,Yes
+P00263,Ultra Serum 263,Grocery,UrbanNest,56.49,110.16,S0050,2025-08-30,Yes
+P00264,Classic Cookware 264,Books,UrbanNest,271.61,466.28,S0051,2022-10-07,Yes
+P00265,Everyday Phone 265,Grocery,GlowPure,496.75,1091.18,S0025,2021-03-20,No
+P00266,Compact Blender 266,Toys,Aster,96.01,124.48,S0022,2024-08-24,Yes
+P00267,Everyday T-Shirt 267,Electronics,Aster,253.76,424.05,S0022,2022-09-13,Yes
+P00268,Everyday Backpack 268,Fashion,ThreadLine,805.86,1311.27,S0074,2023-11-16,Yes
+P00269,Essential Coffee 269,Electronics,PlayForge,131.19,259.99,S0069,2021-06-16,Yes
+P00270,Ultra Headphones 270,Grocery,PlayForge,132.93,190.26,S0069,2022-11-16,Yes
+P00271,Everyday T-Shirt 271,Sports,ThreadLine,213.54,354.98,S0066,2023-04-25,Yes
+P00272,Everyday Coffee 272,Grocery,ThreadLine,123.37,236.01,S0064,2025-04-16,Yes
+P00273,Pro Serum 273,Electronics,Vertex,354.43,646.14,S0022,2022-04-06,Yes
+P00274,Pro Headphones 274,Home & Kitchen,PlayForge,114.14,201.78,S0013,2024-03-20,Yes
+P00275,Everyday Backpack 275,Home & Kitchen,ThreadLine,145.45,241.91,S0027,2023-11-30,Yes
+P00276,Compact Yoga Mat 276,Books,ThreadLine,58.11,114.15,S0047,2023-03-11,Yes
+P00277,Everyday Blender 277,Toys,ThreadLine,127.34,237.37,S0021,2026-03-08,Yes
+P00278,Pro Serum 278,Home & Kitchen,Vertex,77.1,160.44,S0031,2023-02-11,Yes
+P00279,Pro Novel 279,Electronics,DailyHarvest,185.85,361.73,S0079,2025-06-05,Yes
+P00280,Essential Headphones 280,Beauty,PlayForge,50.31,69.6,S0038,2024-09-25,Yes
+P00281,Premium T-Shirt 281,Home & Kitchen,DailyHarvest,280.6,515.9,S0039,2021-06-23,Yes
+P00282,Classic Serum 282,Grocery,NovaTech,84.25,108.88,S0036,2022-08-10,Yes
+P00283,Ultra Cookware 283,Electronics,Vertex,473.28,765.77,S0065,2022-07-08,Yes
+P00284,Classic Cookware 284,Home & Kitchen,ActivePeak,361.76,593.77,S0011,2024-01-26,Yes
+P00285,Compact Blender 285,Fashion,ActivePeak,210.22,433.5,S0069,2021-06-16,Yes
+P00286,Ultra Building Set 286,Fashion,ActivePeak,54.61,77.62,S0034,2021-07-17,No
+P00287,Essential Headphones 287,Electronics,Vertex,98.68,183.68,S0005,2025-06-27,Yes
+P00288,Everyday Building Set 288,Home & Kitchen,ActivePeak,82.88,118.75,S0020,2022-03-16,Yes
+P00289,Smart Serum 289,Home & Kitchen,UrbanNest,89.91,193.42,S0063,2022-07-13,Yes
+P00290,Ultra Building Set 290,Sports,ReadMore,413.6,725.05,S0045,2025-08-29,Yes
+P00291,Smart Lamp 291,Toys,PlayForge,134.39,258.41,S0042,2025-04-03,Yes
+P00292,Ultra Coffee 292,Books,PlayForge,96.77,180.4,S0013,2022-05-29,No
+P00293,Smart Novel 293,Books,PlayForge,91.27,140.41,S0009,2025-06-29,Yes
+P00294,Pro Building Set 294,Home & Kitchen,UrbanNest,105.04,221.23,S0005,2024-01-31,Yes
+P00295,Ultra Headphones 295,Grocery,ReadMore,209.81,387.29,S0038,2024-04-20,Yes
+P00296,Compact Coffee 296,Beauty,Vertex,51.54,89.41,S0049,2025-10-11,Yes
+P00297,Compact Yoga Mat 297,Fashion,NovaTech,158.19,277.14,S0028,2023-05-06,Yes
+P00298,Ultra Coffee 298,Home & Kitchen,ThreadLine,195.45,409.69,S0043,2022-02-18,Yes
+P00299,Smart Building Set 299,Toys,ReadMore,48.04,62.75,S0070,2022-05-06,Yes
+P00300,Essential Backpack 300,Beauty,PlayForge,59.06,95.65,S0041,2024-05-24,Yes
+P00301,Ultra Cookware 301,Grocery,UrbanNest,143.88,294.89,S0044,2025-12-01,Yes
+P00302,Classic Coffee 302,Books,Aster,378.66,486.82,S0029,2025-03-23,Yes
+P00303,Classic Lamp 303,Toys,DailyHarvest,324.33,602.35,S0068,2025-10-09,No
+P00304,Smart Building Set 304,Electronics,ReadMore,99.93,163.2,S0079,2025-05-12,Yes
+P00305,Smart Blender 305,Fashion,Vertex,370.94,535.77,S0025,2022-06-26,Yes
+P00306,Ultra T-Shirt 306,Electronics,Vertex,120.57,220.74,S0068,2021-09-08,Yes
+P00307,Everyday T-Shirt 307,Books,Vertex,119.9,244.54,S0014,2025-10-23,Yes
+P00308,Smart Yoga Mat 308,Grocery,Vertex,157.77,267.26,S0059,2023-01-23,No
+P00309,Ultra Novel 309,Books,UrbanNest,256.12,355.85,S0062,2022-11-15,Yes
+P00310,Compact Coffee 310,Grocery,Aster,99.9,153.93,S0017,2021-09-02,Yes
+P00311,Essential Novel 311,Home & Kitchen,Aster,114.58,250.05,S0019,2024-05-13,Yes
+P00312,Ultra Yoga Mat 312,Electronics,PlayForge,65.94,89.38,S0029,2022-05-03,Yes
+P00313,Ultra Yoga Mat 313,Books,ActivePeak,186.45,261.53,S0078,2025-11-02,Yes
+P00314,Premium Coffee 314,Toys,Vertex,272.24,596.39,S0066,2026-05-03,Yes
+P00315,Smart Cookware 315,Fashion,NovaTech,283.3,591.53,S0045,2026-02-25,Yes
+P00316,Smart Novel 316,Electronics,Aster,61.05,117.32,S0071,2021-02-05,Yes
+P00317,Compact Backpack 317,Toys,PlayForge,115.71,161.23,S0028,2024-01-28,Yes
+P00318,Premium Backpack 318,Electronics,Aster,333.47,493.04,S0059,2022-01-04,Yes
+P00319,Smart Phone 319,Electronics,ActivePeak,172.59,245.28,S0054,2026-05-22,Yes
+P00320,Compact Serum 320,Beauty,Vertex,151.74,280.63,S0008,2026-04-23,Yes
+P00321,Smart Lamp 321,Beauty,PlayForge,149.43,243.41,S0010,2023-08-17,Yes
+P00322,Classic Serum 322,Home & Kitchen,GlowPure,211.02,273.35,S0021,2021-09-15,Yes
+P00323,Classic Coffee 323,Grocery,DailyHarvest,178.72,272.86,S0035,2022-05-16,Yes
+P00324,Premium Lamp 324,Electronics,Vertex,102.1,211.1,S0004,2022-10-16,Yes
+P00325,Compact Coffee 325,Beauty,Vertex,263.14,527.92,S0053,2022-12-21,Yes
+P00326,Pro Novel 326,Fashion,Aster,67.91,126.37,S0025,2025-07-07,Yes
+P00327,Classic Lamp 327,Fashion,GlowPure,350.51,466.62,S0020,2025-06-24,Yes
+P00328,Premium T-Shirt 328,Books,ReadMore,82.9,173.15,S0071,2024-02-02,Yes
+P00329,Pro Blender 329,Electronics,GlowPure,211.9,372.48,S0071,2022-04-24,Yes
+P00330,Smart Yoga Mat 330,Home & Kitchen,NovaTech,133.34,229.32,S0022,2021-08-28,Yes
+P00331,Ultra Building Set 331,Books,ReadMore,108.89,232.74,S0049,2022-01-03,Yes
+P00332,Compact Blender 332,Beauty,DailyHarvest,358.68,451.36,S0006,2025-11-12,Yes
+P00333,Compact Blender 333,Books,ReadMore,240.54,427.7,S0051,2024-08-07,Yes
+P00334,Pro Backpack 334,Beauty,ThreadLine,142.83,285.9,S0027,2023-09-09,Yes
+P00335,Premium Lamp 335,Beauty,DailyHarvest,461.44,604.72,S0018,2021-05-29,Yes
+P00336,Smart Novel 336,Books,Aster,280.57,445.91,S0012,2023-01-02,Yes
+P00337,Ultra Backpack 337,Home & Kitchen,Vertex,87.92,191.54,S0028,2022-02-05,Yes
+P00338,Essential Blender 338,Sports,NovaTech,34.15,49.56,S0019,2025-03-02,Yes
+P00339,Essential Phone 339,Beauty,ReadMore,159.09,279.14,S0043,2022-08-17,No
+P00340,Ultra Coffee 340,Toys,Aster,364.77,714.5,S0015,2021-10-15,Yes
+P00341,Premium Building Set 341,Electronics,DailyHarvest,220.73,357.77,S0069,2025-08-14,No
+P00342,Essential Backpack 342,Beauty,UrbanNest,412.85,676.03,S0036,2021-05-14,Yes
+P00343,Everyday Cookware 343,Beauty,GlowPure,100.59,131.78,S0042,2025-12-26,Yes
+P00344,Classic Building Set 344,Grocery,NovaTech,137.52,196.73,S0045,2026-01-29,Yes
+P00345,Classic Cookware 345,Grocery,GlowPure,139.71,291.52,S0030,2025-01-17,Yes
+P00346,Pro Lamp 346,Grocery,UrbanNest,173.61,351.98,S0039,2021-08-13,Yes
+P00347,Everyday Coffee 347,Sports,ThreadLine,244.41,376.25,S0046,2022-09-29,Yes
+P00348,Ultra Cookware 348,Grocery,GlowPure,428.82,691.53,S0058,2022-08-31,Yes
+P00349,Pro Novel 349,Books,ThreadLine,491.64,820.25,S0030,2023-04-29,Yes
+P00350,Compact Blender 350,Toys,ReadMore,438.46,692.17,S0056,2023-06-19,Yes
+P00351,Pro Coffee 351,Electronics,PlayForge,229.27,429.01,S0054,2025-11-11,Yes
+P00352,Compact Coffee 352,Electronics,PlayForge,118.81,149.96,S0037,2023-04-06,Yes
+P00353,Ultra Novel 353,Toys,NovaTech,171.89,358.59,S0022,2026-05-05,Yes
+P00354,Smart Coffee 354,Electronics,ActivePeak,227.22,348.92,S0024,2023-07-07,Yes
+P00355,Essential T-Shirt 355,Beauty,ThreadLine,162.03,336.82,S0069,2022-02-15,Yes
+P00356,Everyday Serum 356,Beauty,NovaTech,81.94,137.8,S0033,2022-01-09,Yes
+P00357,Essential Yoga Mat 357,Fashion,NovaTech,109.89,218.41,S0017,2021-03-26,Yes
+P00358,Essential Yoga Mat 358,Sports,UrbanNest,260.92,530.84,S0062,2021-03-25,Yes
+P00359,Pro Headphones 359,Books,Aster,126.44,194.24,S0012,2022-04-27,Yes
+P00360,Smart Headphones 360,Toys,DailyHarvest,150.76,280.16,S0030,2024-09-28,Yes
+P00361,Compact Blender 361,Electronics,GlowPure,141.04,257.69,S0013,2021-09-29,Yes
+P00362,Compact Cookware 362,Electronics,Aster,83.1,141.45,S0006,2021-01-06,Yes
+P00363,Ultra Coffee 363,Fashion,ThreadLine,132.78,225.21,S0067,2025-01-27,Yes
+P00364,Compact Cookware 364,Beauty,DailyHarvest,110.21,169.72,S0011,2022-06-03,Yes
+P00365,Everyday Backpack 365,Toys,UrbanNest,94.66,146.22,S0060,2021-01-14,Yes
+P00366,Everyday Coffee 366,Toys,Vertex,74.6,132.1,S0010,2023-10-24,Yes
+P00367,Smart Blender 367,Fashion,GlowPure,139.02,178.04,S0075,2025-10-27,Yes
+P00368,Pro Serum 368,Toys,Vertex,221.81,474.0,S0016,2023-03-28,Yes
+P00369,Ultra Cookware 369,Fashion,NovaTech,307.47,574.19,S0042,2026-01-02,Yes
+P00370,Compact Yoga Mat 370,Beauty,ActivePeak,59.97,100.23,S0044,2022-05-02,Yes
+P00371,Essential Coffee 371,Home & Kitchen,Aster,421.64,551.81,S0019,2023-03-08,Yes
+P00372,Essential Building Set 372,Grocery,PlayForge,179.54,331.88,S0073,2024-11-12,Yes
+P00373,Essential Novel 373,Books,GlowPure,71.34,90.38,S0015,2022-05-02,Yes
+P00374,Everyday Yoga Mat 374,Grocery,ActivePeak,114.16,216.43,S0039,2024-04-06,No
+P00375,Pro Yoga Mat 375,Toys,Vertex,43.8,57.77,S0005,2023-07-26,Yes
+P00376,Compact Blender 376,Sports,ReadMore,51.72,96.89,S0031,2022-02-10,Yes
+P00377,Compact Novel 377,Home & Kitchen,ReadMore,454.38,743.18,S0079,2022-04-08,Yes
+P00378,Premium Cookware 378,Home & Kitchen,UrbanNest,94.2,177.05,S0028,2021-05-12,Yes
+P00379,Classic Serum 379,Sports,NovaTech,210.39,290.67,S0038,2022-05-21,Yes
+P00380,Compact Cookware 380,Home & Kitchen,GlowPure,138.07,187.98,S0052,2026-06-25,Yes
+P00381,Everyday Yoga Mat 381,Beauty,Aster,150.14,222.97,S0015,2022-09-25,Yes
+P00382,Pro Blender 382,Home & Kitchen,ThreadLine,188.52,309.35,S0019,2021-08-24,Yes
+P00383,Compact Yoga Mat 383,Grocery,PlayForge,38.3,57.08,S0035,2021-01-23,Yes
+P00384,Compact Novel 384,Toys,PlayForge,349.69,464.36,S0074,2022-09-06,Yes
+P00385,Classic Yoga Mat 385,Home & Kitchen,ReadMore,139.19,216.97,S0015,2024-03-01,Yes
+P00386,Smart Cookware 386,Books,ActivePeak,106.93,205.36,S0047,2022-03-28,Yes
+P00387,Classic Yoga Mat 387,Home & Kitchen,ThreadLine,201.18,362.91,S0056,2021-10-01,No
+P00388,Smart Phone 388,Beauty,GlowPure,92.88,201.1,S0020,2023-10-22,Yes
+P00389,Pro Cookware 389,Fashion,ActivePeak,169.92,282.77,S0075,2025-04-17,Yes
+P00390,Classic Backpack 390,Electronics,GlowPure,133.29,208.75,S0009,2022-10-23,Yes
+P00391,Everyday Blender 391,Sports,ThreadLine,235.6,449.76,S0005,2021-06-15,Yes
+P00392,Smart Lamp 392,Sports,UrbanNest,129.14,211.97,S0011,2022-02-14,Yes
+P00393,Pro Coffee 393,Beauty,ActivePeak,75.98,139.61,S0002,2021-10-24,No
+P00394,Everyday Coffee 394,Electronics,UrbanNest,187.83,403.64,S0052,2025-09-09,No
+P00395,Essential T-Shirt 395,Home & Kitchen,UrbanNest,124.47,214.61,S0020,2026-02-20,Yes
+P00396,Smart Yoga Mat 396,Toys,UrbanNest,45.44,78.31,S0021,2024-01-22,Yes
+P00397,Everyday Blender 397,Toys,UrbanNest,168.76,335.23,S0051,2025-07-11,Yes
+P00398,Premium Building Set 398,Grocery,DailyHarvest,104.65,205.98,S0030,2023-07-26,Yes
+P00399,Everyday Blender 399,Books,PlayForge,185.81,323.39,S0048,2023-09-30,Yes
+P00400,Smart T-Shirt 400,Sports,Vertex,85.13,111.65,S0001,2021-04-06,Yes
+P00401,Classic Lamp 401,Toys,ThreadLine,67.75,147.81,S0035,2022-07-25,No
+P00402,Pro Blender 402,Home & Kitchen,NovaTech,319.6,514.06,S0026,2023-06-19,Yes
+P00403,Compact Blender 403,Books,ReadMore,256.74,398.17,S0009,2021-05-21,Yes
+P00404,Ultra Lamp 404,Grocery,Vertex,147.78,322.53,S0040,2024-09-02,No
+P00405,Compact Headphones 405,Beauty,NovaTech,197.27,410.03,S0021,2022-07-17,Yes
+P00406,Ultra Coffee 406,Books,NovaTech,251.33,393.01,S0080,2026-05-09,Yes
+P00407,Everyday Yoga Mat 407,Beauty,GlowPure,147.43,227.47,S0012,2023-10-11,Yes
+P00408,Ultra Yoga Mat 408,Books,Aster,67.66,130.92,S0037,2023-02-06,Yes
+P00409,Smart Lamp 409,Beauty,NovaTech,180.31,282.65,S0071,2025-06-15,Yes
+P00410,Premium Serum 410,Fashion,Vertex,284.7,423.88,S0024,2023-04-13,Yes
+P00411,Compact Yoga Mat 411,Beauty,ReadMore,218.23,475.89,S0050,2024-08-21,Yes
+P00412,Premium T-Shirt 412,Home & Kitchen,ActivePeak,154.25,275.71,S0054,2021-06-26,Yes
+P00413,Compact T-Shirt 413,Fashion,ActivePeak,214.31,423.13,S0028,2022-09-07,No
+P00414,Premium T-Shirt 414,Home & Kitchen,UrbanNest,128.37,247.42,S0004,2022-10-16,Yes
+P00415,Smart Building Set 415,Books,ThreadLine,292.57,575.7,S0012,2022-02-25,Yes
+P00416,Everyday Cookware 416,Beauty,PlayForge,356.26,751.07,S0067,2021-01-30,Yes
+P00417,Everyday Yoga Mat 417,Fashion,GlowPure,63.91,110.29,S0037,2021-05-22,Yes
+P00418,Smart Serum 418,Books,ReadMore,306.54,602.57,S0004,2025-10-05,Yes
+P00419,Pro Cookware 419,Electronics,DailyHarvest,635.39,1275.21,S0015,2021-08-11,Yes
+P00420,Pro Cookware 420,Beauty,NovaTech,208.85,448.83,S0028,2025-03-09,Yes
+P00421,Everyday Blender 421,Toys,ReadMore,281.31,542.21,S0037,2023-05-10,Yes
+P00422,Compact Yoga Mat 422,Fashion,NovaTech,97.45,204.45,S0009,2026-05-01,Yes
+P00423,Compact Building Set 423,Books,DailyHarvest,106.97,143.37,S0014,2023-04-10,Yes
+P00424,Premium Headphones 424,Fashion,GlowPure,129.52,177.42,S0067,2022-05-26,Yes
+P00425,Compact Backpack 425,Fashion,ActivePeak,114.25,160.0,S0050,2023-10-24,Yes
+P00426,Classic Yoga Mat 426,Sports,Aster,63.26,87.78,S0078,2025-01-17,Yes
+P00427,Classic Blender 427,Fashion,UrbanNest,132.66,176.85,S0025,2025-04-24,Yes
+P00428,Smart T-Shirt 428,Electronics,ThreadLine,255.61,349.28,S0039,2024-07-22,No
+P00429,Pro Lamp 429,Beauty,PlayForge,63.81,140.13,S0026,2024-10-16,Yes
+P00430,Pro Coffee 430,Beauty,PlayForge,166.74,251.54,S0060,2021-04-08,Yes
+P00431,Premium Coffee 431,Beauty,DailyHarvest,163.45,278.54,S0052,2023-09-15,Yes
+P00432,Pro Cookware 432,Fashion,ThreadLine,122.02,247.77,S0070,2022-04-05,Yes
+P00433,Ultra Yoga Mat 433,Beauty,UrbanNest,204.94,279.21,S0026,2024-02-26,Yes
+P00434,Everyday Coffee 434,Electronics,UrbanNest,192.81,299.14,S0048,2024-04-05,Yes
+P00435,Premium Lamp 435,Toys,ReadMore,116.5,163.25,S0054,2021-09-23,Yes
+P00436,Smart Building Set 436,Toys,UrbanNest,295.77,387.29,S0041,2023-10-09,Yes
+P00437,Essential Lamp 437,Sports,GlowPure,213.66,462.09,S0001,2023-08-01,Yes
+P00438,Pro Phone 438,Electronics,Vertex,412.72,852.45,S0021,2022-01-19,Yes
+P00439,Premium Serum 439,Sports,Aster,142.14,296.41,S0078,2026-02-24,Yes
+P00440,Smart Backpack 440,Beauty,ThreadLine,120.4,249.86,S0072,2021-05-31,Yes
+P00441,Pro Lamp 441,Toys,NovaTech,129.61,181.04,S0025,2024-06-25,Yes
+P00442,Smart T-Shirt 442,Books,UrbanNest,319.23,637.1,S0018,2022-07-25,Yes
+P00443,Everyday Headphones 443,Home & Kitchen,Aster,134.74,261.59,S0015,2021-08-06,Yes
+P00444,Everyday Yoga Mat 444,Toys,Aster,140.19,298.48,S0042,2022-08-18,Yes
+P00445,Classic Lamp 445,Toys,PlayForge,530.93,774.29,S0020,2024-01-31,Yes
+P00446,Ultra Backpack 446,Sports,Vertex,61.94,101.79,S0016,2025-08-11,Yes
+P00447,Everyday Blender 447,Grocery,Vertex,187.15,286.37,S0007,2023-07-30,Yes
+P00448,Everyday Novel 448,Electronics,GlowPure,142.6,213.19,S0005,2023-01-26,Yes
+P00449,Ultra Novel 449,Electronics,DailyHarvest,126.1,235.78,S0018,2021-10-27,No
+P00450,Essential Backpack 450,Books,NovaTech,79.86,112.26,S0078,2025-12-15,Yes
+P00451,Premium T-Shirt 451,Grocery,ReadMore,96.39,163.05,S0018,2023-12-08,Yes
+P00452,Essential Building Set 452,Toys,DailyHarvest,113.83,212.21,S0064,2021-11-27,Yes
+P00453,Everyday Yoga Mat 453,Toys,UrbanNest,204.84,281.41,S0025,2023-02-01,Yes
+P00454,Ultra Headphones 454,Home & Kitchen,DailyHarvest,258.29,385.92,S0075,2025-10-19,Yes
+P00455,Smart Coffee 455,Sports,GlowPure,46.7,101.29,S0026,2024-06-12,Yes
+P00456,Premium Novel 456,Grocery,UrbanNest,67.96,136.3,S0069,2022-05-28,Yes
+P00457,Pro Novel 457,Sports,GlowPure,211.9,401.15,S0016,2023-07-17,Yes
+P00458,Premium Building Set 458,Grocery,DailyHarvest,223.85,461.84,S0063,2021-04-07,Yes
+P00459,Smart Backpack 459,Electronics,GlowPure,57.32,72.41,S0072,2026-06-07,Yes
+P00460,Everyday Building Set 460,Grocery,DailyHarvest,261.99,329.0,S0077,2025-12-04,Yes
+P00461,Smart Serum 461,Sports,PlayForge,147.07,205.35,S0058,2024-10-06,Yes
+P00462,Essential Lamp 462,Home & Kitchen,ActivePeak,241.19,414.97,S0027,2021-03-31,Yes
+P00463,Everyday Backpack 463,Grocery,DailyHarvest,85.32,152.85,S0049,2024-05-07,Yes
+P00464,Everyday Phone 464,Sports,UrbanNest,60.13,81.66,S0073,2024-01-29,Yes
+P00465,Compact Yoga Mat 465,Grocery,ThreadLine,121.43,160.13,S0047,2024-12-24,Yes
+P00466,Classic Yoga Mat 466,Sports,GlowPure,124.99,254.59,S0071,2021-06-01,Yes
+P00467,Everyday Cookware 467,Home & Kitchen,Aster,120.53,203.85,S0050,2025-05-24,Yes
+P00468,Everyday Blender 468,Beauty,ActivePeak,115.17,252.55,S0046,2022-12-27,Yes
+P00469,Smart Backpack 469,Sports,ActivePeak,446.03,654.72,S0008,2021-04-18,No
+P00470,Compact Cookware 470,Books,NovaTech,49.16,91.68,S0002,2021-06-13,Yes
+P00471,Classic Yoga Mat 471,Electronics,NovaTech,85.7,172.61,S0018,2022-03-27,Yes
+P00472,Smart Headphones 472,Fashion,NovaTech,113.06,235.05,S0036,2023-03-29,Yes
+P00473,Ultra Blender 473,Electronics,ActivePeak,150.75,232.31,S0042,2021-09-05,Yes
+P00474,Compact Blender 474,Toys,UrbanNest,235.61,337.77,S0011,2023-08-13,Yes
+P00475,Everyday Blender 475,Books,ThreadLine,260.47,381.53,S0059,2022-04-30,Yes
+P00476,Classic Coffee 476,Electronics,DailyHarvest,298.79,562.74,S0052,2022-03-18,Yes
+P00477,Pro Headphones 477,Grocery,Aster,202.95,354.39,S0074,2026-01-12,Yes
+P00478,Pro Building Set 478,Grocery,DailyHarvest,48.21,87.7,S0049,2025-09-30,Yes
+P00479,Everyday Coffee 479,Beauty,Aster,50.31,63.87,S0056,2022-05-15,Yes
+P00480,Compact Coffee 480,Beauty,UrbanNest,312.85,507.26,S0070,2023-09-12,Yes
+P00481,Classic Building Set 481,Electronics,DailyHarvest,299.98,463.36,S0074,2021-10-06,Yes
+P00482,Compact Lamp 482,Sports,Vertex,224.4,464.64,S0030,2022-06-08,No
+P00483,Classic Blender 483,Toys,Aster,87.08,173.07,S0055,2025-08-19,Yes
+P00484,Pro Building Set 484,Electronics,Aster,120.34,199.53,S0028,2024-04-24,Yes
+P00485,Essential Headphones 485,Books,ReadMore,114.52,211.75,S0051,2025-11-07,Yes
+P00486,Pro Phone 486,Grocery,NovaTech,76.24,98.75,S0027,2023-04-09,Yes
+P00487,Pro Cookware 487,Sports,ThreadLine,175.63,325.86,S0052,2022-05-03,No
+P00488,Pro Lamp 488,Home & Kitchen,ActivePeak,602.48,808.74,S0034,2021-08-12,Yes
+P00489,Everyday T-Shirt 489,Toys,ThreadLine,107.54,207.37,S0032,2026-05-29,Yes
+P00490,Everyday Headphones 490,Home & Kitchen,ThreadLine,344.78,618.93,S0044,2025-03-04,Yes
+P00491,Everyday Novel 491,Toys,Vertex,83.47,128.17,S0004,2023-09-12,Yes
+P00492,Essential Headphones 492,Beauty,ActivePeak,54.66,87.58,S0048,2025-04-19,Yes
+P00493,Ultra Coffee 493,Fashion,DailyHarvest,281.99,376.62,S0016,2023-05-12,Yes
+P00494,Essential Serum 494,Fashion,PlayForge,128.74,200.4,S0060,2021-04-11,Yes
+P00495,Compact Lamp 495,Books,GlowPure,339.11,735.36,S0047,2023-02-05,Yes
+P00496,Ultra Serum 496,Beauty,ThreadLine,386.09,660.94,S0075,2024-07-21,Yes
+P00497,Ultra Phone 497,Home & Kitchen,ThreadLine,123.85,210.61,S0015,2026-03-27,Yes
+P00498,Essential Cookware 498,Beauty,UrbanNest,355.3,656.51,S0056,2022-11-06,Yes
+P00499,Everyday Cookware 499,Home & Kitchen,ActivePeak,83.98,143.62,S0016,2022-03-08,Yes
+P00500,Ultra Building Set 500,Sports,UrbanNest,83.12,131.97,S0001,2022-07-03,Yes
+P00501,Classic Coffee 501,Books,UrbanNest,297.97,411.96,S0025,2025-03-16,Yes
+P00502,Smart T-Shirt 502,Toys,GlowPure,54.27,100.33,S0064,2026-01-07,Yes
+P00503,Essential Blender 503,Home & Kitchen,ReadMore,148.26,290.81,S0043,2022-01-25,Yes
+P00504,Everyday Blender 504,Toys,ReadMore,334.38,711.21,S0014,2021-07-30,Yes
+P00505,Everyday Phone 505,Home & Kitchen,DailyHarvest,349.29,437.61,S0048,2026-04-04,No
+P00506,Classic Building Set 506,Home & Kitchen,ReadMore,112.03,147.13,S0068,2024-01-15,Yes
+P00507,Classic Blender 507,Fashion,ReadMore,286.0,601.87,S0014,2025-03-09,No
+P00508,Everyday Yoga Mat 508,Grocery,GlowPure,71.53,132.3,S0080,2025-02-12,Yes
+P00509,Essential Lamp 509,Home & Kitchen,ActivePeak,96.18,207.75,S0015,2025-06-15,Yes
+P00510,Ultra Backpack 510,Electronics,PlayForge,172.39,286.05,S0077,2023-02-02,Yes
+P00511,Premium Novel 511,Sports,Aster,189.72,312.25,S0017,2021-07-27,Yes
+P00512,Ultra Novel 512,Toys,Vertex,75.11,118.45,S0052,2023-09-13,Yes
+P00513,Everyday Headphones 513,Fashion,GlowPure,497.94,689.98,S0010,2024-08-11,Yes
+P00514,Smart Lamp 514,Toys,Aster,43.8,70.5,S0017,2023-02-11,No
+P00515,Premium Serum 515,Electronics,NovaTech,153.74,194.31,S0008,2023-07-01,Yes
+P00516,Pro Serum 516,Fashion,ReadMore,168.57,292.27,S0002,2026-01-18,Yes
+P00517,Premium Building Set 517,Fashion,UrbanNest,47.68,97.98,S0056,2022-09-17,Yes
+P00518,Premium Backpack 518,Grocery,PlayForge,350.96,545.79,S0065,2024-07-22,Yes
+P00519,Premium Coffee 519,Electronics,ReadMore,91.72,122.9,S0055,2025-06-16,Yes
+P00520,Classic Cookware 520,Grocery,Vertex,158.22,344.14,S0069,2024-11-01,Yes
+P00521,Pro Phone 521,Grocery,ReadMore,183.69,252.12,S0080,2023-02-24,Yes
+P00522,Smart Novel 522,Toys,ReadMore,57.67,101.05,S0073,2024-04-11,Yes
+P00523,Smart Yoga Mat 523,Beauty,GlowPure,73.93,149.24,S0036,2024-02-28,Yes
+P00524,Essential Novel 524,Books,Vertex,409.92,610.67,S0009,2026-04-06,Yes
+P00525,Ultra T-Shirt 525,Books,ThreadLine,142.2,291.43,S0014,2022-08-23,Yes
+P00526,Compact Headphones 526,Books,NovaTech,25.71,45.74,S0074,2025-11-17,Yes
+P00527,Ultra Lamp 527,Beauty,Aster,121.97,190.92,S0022,2022-07-21,Yes
+P00528,Classic T-Shirt 528,Home & Kitchen,DailyHarvest,145.27,301.06,S0016,2023-05-09,Yes
+P00529,Classic Blender 529,Electronics,DailyHarvest,171.16,315.09,S0041,2021-01-04,Yes
+P00530,Ultra Lamp 530,Home & Kitchen,NovaTech,40.48,74.27,S0067,2022-05-11,Yes
+P00531,Compact Coffee 531,Books,Vertex,145.61,251.73,S0028,2022-01-14,Yes
+P00532,Classic Serum 532,Beauty,UrbanNest,86.38,130.52,S0029,2021-12-22,No
+P00533,Everyday Backpack 533,Electronics,ReadMore,171.34,263.8,S0065,2022-04-13,Yes
+P00534,Pro Coffee 534,Grocery,Vertex,206.26,275.08,S0028,2024-11-20,Yes
+P00535,Pro Backpack 535,Electronics,ReadMore,192.48,285.17,S0032,2022-03-14,Yes
+P00536,Smart Coffee 536,Electronics,PlayForge,369.66,559.64,S0052,2023-04-08,Yes
+P00537,Pro Backpack 537,Grocery,Vertex,616.38,804.85,S0011,2025-04-14,Yes
+P00538,Classic Blender 538,Home & Kitchen,ActivePeak,71.03,96.23,S0026,2022-12-02,Yes
+P00539,Everyday Novel 539,Fashion,NovaTech,115.78,174.45,S0031,2023-10-09,Yes
+P00540,Pro Backpack 540,Fashion,Vertex,240.56,455.47,S0020,2021-02-15,Yes
+P00541,Ultra Cookware 541,Books,Aster,136.67,194.76,S0069,2022-09-01,Yes
+P00542,Pro Coffee 542,Fashion,PlayForge,25.28,44.13,S0041,2021-02-18,Yes
+P00543,Pro Serum 543,Toys,DailyHarvest,130.95,226.87,S0067,2021-04-30,Yes
+P00544,Ultra Coffee 544,Electronics,UrbanNest,331.03,676.07,S0044,2025-08-09,Yes
+P00545,Premium Serum 545,Beauty,ActivePeak,59.94,109.61,S0060,2026-02-11,Yes
+P00546,Ultra Lamp 546,Grocery,DailyHarvest,171.28,363.31,S0007,2025-11-20,Yes
+P00547,Essential Lamp 547,Home & Kitchen,PlayForge,42.96,79.33,S0054,2024-01-03,Yes
+P00548,Pro Cookware 548,Home & Kitchen,PlayForge,261.26,332.91,S0063,2024-12-02,Yes
+P00549,Pro Phone 549,Beauty,GlowPure,173.65,280.0,S0080,2025-02-27,Yes
+P00550,Ultra Yoga Mat 550,Fashion,UrbanNest,102.59,196.37,S0013,2021-09-30,Yes
+P00551,Smart Lamp 551,Books,Aster,113.11,192.44,S0033,2023-10-21,Yes
+P00552,Smart Lamp 552,Sports,ThreadLine,56.01,92.33,S0007,2023-10-15,Yes
+P00553,Everyday Yoga Mat 553,Beauty,Vertex,285.71,539.41,S0030,2024-02-05,Yes
+P00554,Compact Lamp 554,Fashion,GlowPure,88.27,134.3,S0011,2026-03-03,Yes
+P00555,Essential Serum 555,Electronics,NovaTech,205.45,434.22,S0070,2021-07-03,Yes
+P00556,Compact Lamp 556,Beauty,Aster,79.42,130.45,S0021,2021-12-11,Yes
+P00557,Pro Backpack 557,Grocery,GlowPure,619.53,1145.92,S0032,2023-03-31,Yes
+P00558,Classic Backpack 558,Fashion,DailyHarvest,409.03,893.0,S0005,2025-05-26,Yes
+P00559,Premium Backpack 559,Home & Kitchen,DailyHarvest,571.31,1140.45,S0035,2025-04-05,Yes
+P00560,Smart Yoga Mat 560,Sports,Aster,616.37,1081.76,S0047,2025-08-20,Yes
+P00561,Everyday Phone 561,Sports,Aster,98.25,203.03,S0012,2024-09-24,Yes
+P00562,Essential Cookware 562,Sports,UrbanNest,83.54,148.9,S0037,2022-04-04,Yes
+P00563,Classic Blender 563,Grocery,Aster,553.9,924.78,S0044,2021-08-13,Yes
+P00564,Pro Novel 564,Fashion,GlowPure,135.41,281.62,S0022,2022-11-21,Yes
+P00565,Ultra T-Shirt 565,Fashion,PlayForge,255.08,325.43,S0011,2022-01-10,Yes
+P00566,Compact T-Shirt 566,Grocery,DailyHarvest,99.14,162.3,S0055,2025-07-12,Yes
+P00567,Essential Headphones 567,Electronics,NovaTech,100.21,157.92,S0010,2023-06-30,Yes
+P00568,Pro T-Shirt 568,Sports,DailyHarvest,254.54,490.85,S0042,2025-08-22,Yes
+P00569,Pro Coffee 569,Toys,NovaTech,41.25,52.06,S0080,2025-03-29,No
+P00570,Pro Cookware 570,Home & Kitchen,ReadMore,246.92,463.67,S0076,2023-12-16,Yes
+P00571,Essential Blender 571,Grocery,ActivePeak,208.7,329.55,S0055,2021-08-28,Yes
+P00572,Everyday Blender 572,Books,Aster,105.15,141.22,S0050,2024-07-22,No
+P00573,Classic Serum 573,Sports,PlayForge,150.76,328.85,S0032,2023-04-18,Yes
+P00574,Ultra Headphones 574,Beauty,ReadMore,166.93,242.32,S0068,2023-07-13,Yes
+P00575,Essential Blender 575,Beauty,Aster,173.13,273.84,S0018,2024-11-30,Yes
+P00576,Ultra Phone 576,Home & Kitchen,NovaTech,232.43,336.26,S0065,2022-10-30,Yes
+P00577,Pro Headphones 577,Grocery,ReadMore,87.38,164.18,S0025,2025-06-04,Yes
+P00578,Premium Coffee 578,Fashion,ThreadLine,857.07,1708.48,S0031,2024-02-12,Yes
+P00579,Essential Backpack 579,Books,ReadMore,129.85,268.48,S0019,2025-04-18,Yes
+P00580,Pro Lamp 580,Toys,PlayForge,136.33,210.69,S0018,2021-04-24,Yes
+P00581,Ultra Backpack 581,Sports,ReadMore,525.34,918.47,S0068,2023-09-28,No
+P00582,Essential Blender 582,Books,Vertex,45.2,84.98,S0033,2026-05-19,Yes
+P00583,Compact Coffee 583,Beauty,Vertex,521.79,964.29,S0070,2024-12-26,No
+P00584,Smart Lamp 584,Home & Kitchen,DailyHarvest,157.71,304.42,S0007,2025-03-06,Yes
+P00585,Essential Lamp 585,Toys,ActivePeak,105.15,208.33,S0001,2024-10-26,Yes
+P00586,Compact Backpack 586,Toys,Aster,71.68,96.24,S0080,2025-05-18,Yes
+P00587,Premium Backpack 587,Electronics,ThreadLine,65.05,91.71,S0059,2025-04-11,Yes
+P00588,Everyday Cookware 588,Beauty,GlowPure,118.84,231.45,S0034,2024-01-16,Yes
+P00589,Pro Backpack 589,Beauty,Aster,177.81,302.78,S0052,2025-11-28,Yes
+P00590,Ultra Blender 590,Sports,DailyHarvest,222.43,368.27,S0011,2025-01-09,Yes
+P00591,Classic Phone 591,Fashion,Vertex,176.43,296.87,S0008,2022-08-28,Yes
+P00592,Smart Yoga Mat 592,Beauty,DailyHarvest,106.52,170.8,S0053,2021-07-19,Yes
+P00593,Everyday Blender 593,Beauty,Aster,354.49,642.16,S0015,2024-10-17,Yes
+P00594,Premium Serum 594,Toys,ThreadLine,843.85,1314.01,S0028,2022-05-02,Yes
+P00595,Classic Building Set 595,Sports,PlayForge,392.1,727.34,S0014,2026-04-07,No
+P00596,Everyday Novel 596,Fashion,DailyHarvest,117.5,169.49,S0058,2022-12-18,Yes
+P00597,Ultra Lamp 597,Grocery,ThreadLine,205.69,405.17,S0057,2021-03-25,Yes
+P00598,Classic Building Set 598,Books,NovaTech,214.44,427.28,S0052,2025-07-01,Yes
+P00599,Premium Coffee 599,Electronics,PlayForge,420.9,757.45,S0037,2024-06-24,Yes
+P00600,Ultra Yoga Mat 600,Books,ThreadLine,119.13,190.71,S0002,2026-03-23,Yes

@@ -1,0 +1,21 @@
+revenue_rank,payment_rank,customer_id,customer_segment,acquisition_channel,state,lifetime_orders,lifetime_net_revenue,successful_payment_value,last_order_date
+1,1,C000878,Regular,Social Media,Odisha,7,20415.38,17624.92,2025-11-17
+2,2,C000340,Regular,Direct,Karnataka,6,16989.39,17235.39,2026-06-15
+3,3,C005999,New,Social Media,Delhi,7,16145.09,16332.09,2026-05-19
+4,6,C007063,New,Organic Search,West Bengal,5,15466.07,15633.07,2026-09-24
+5,5,C001030,Regular,Social Media,Odisha,6,15381.94,15647.94,2026-07-20
+6,4,C005666,At Risk,Organic Search,Kerala,9,15172.01,16149.22,2026-05-15
+7,12,C000934,Regular,Organic Search,West Bengal,4,14488.01,12752.89,2025-07-02
+8,8,C006322,Regular,Social Media,Odisha,5,14436.42,14067.93,2025-11-19
+9,21,C002887,New,Organic Search,Odisha,7,14353.82,11695.29,2026-05-22
+10,9,C007965,Regular,Direct,Maharashtra,12,14210.8,13559.77,2026-08-20
+11,28,C003499,New,Organic Search,Uttar Pradesh,7,14005.61,11212.6,2026-08-20
+12,7,C006741,Regular,Social Media,Rajasthan,9,13740.92,14083.92,2026-06-12
+13,290,C003412,New,Organic Search,Tamil Nadu,7,13200.56,7203.81,2026-07-24
+14,20,C007420,Regular,Social Media,Maharashtra,8,12772.38,11799.86,2026-06-17
+15,13,C004705,Regular,Organic Search,Rajasthan,3,12668.83,12636.99,2026-06-13
+16,19,C007023,Regular,Organic Search,Maharashtra,6,12649.86,11860.98,2026-07-19
+17,10,C006681,New,Email,Madhya Pradesh,8,12604.01,13419.24,2026-03-27
+18,11,C006283,New,Organic Search,Gujarat,4,12582.43,12769.43,2026-04-06
+19,123,C002407,Regular,Paid Search,Rajasthan,9,12430.47,8697.0,2026-02-10
+20,15,C006353,New,Paid Search,Gujarat,5,12069.22,12406.27,2025-02-14

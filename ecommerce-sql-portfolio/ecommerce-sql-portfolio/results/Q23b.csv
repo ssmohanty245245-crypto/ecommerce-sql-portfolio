@@ -1,0 +1,4 @@
+device_type,sessions,pct_of_sessions,conversions,conversion_rate_pct,avg_session_duration_sec,avg_pages_viewed
+Mobile,47508,67.9,6162,12.97,207.6,3.21
+Desktop,18982,27.1,2460,12.96,206.8,3.18
+Tablet,3510,5.0,491,13.99,208.8,3.21

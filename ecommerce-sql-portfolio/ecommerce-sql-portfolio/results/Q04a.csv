@@ -1,0 +1,6 @@
+order_status,orders,fully_paid,partially_paid,no_successful_payment,overpaid,pct_fully_paid
+Delivered,22822,19550,237,3035,0,85.7
+Cancelled,2373,2018,32,323,0,85.0
+Returned,1883,1608,22,253,0,85.4
+Shipped,1756,1524,12,220,0,86.8
+Processing,1166,991,18,157,0,85.0

@@ -1,0 +1,16 @@
+check,pandas_value,sql_value,match
+Net item revenue: Q06 monthly total,23588241.98,23588241.98,True
+Net item revenue: Q10 category total,23588241.98,23588241.98,True
+Net item revenue: Q11a channel total,23588241.98,23588241.98,True
+Net item revenue: Q11b state total,23588241.98,23588241.98,True
+Refunds on revenue orders: Q06 total,506914.78,506914.78,True
+Successful cash collected: Q04b,24545015.25,24545015.25,True
+Orders booked: Q06 total,30000.0,30000.0,True
+Purchasing customers: Q18a,7660.0,7660.0,True
+Repeat purchase rate %: Q18a,86.88,86.9,True
+RFM segments sum to purchasing customers: Q19a,7660.0,7660.0,True
+Session conversion rate %: Q23a,13.02,13.02,True
+Row count orders,30000.0,30000.0,True
+Row count order_items,65570.0,65570.0,True
+Jan-2024 cohort size: Q30b,697.0,697.0,True
+Customers in category-breadth table: Q22a,7660.0,7660.0,True

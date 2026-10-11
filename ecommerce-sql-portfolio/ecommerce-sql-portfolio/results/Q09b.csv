@@ -1,0 +1,11 @@
+rank_by_revenue,product_id,product_name,category,units_sold,net_item_revenue,pct_of_total_revenue
+1,P00027,Compact Cookware 27,Beauty,160,472082.75,2.0
+2,P00578,Premium Coffee 578,Fashion,130,201173.43,0.85
+3,P00137,Compact Phone 137,Fashion,142,197305.56,0.84
+4,P00060,Classic Backpack 60,Beauty,150,181520.32,0.77
+5,P00255,Compact Coffee 255,Books,151,160775.66,0.68
+6,P00028,Premium Phone 28,Fashion,130,156821.69,0.66
+7,P00559,Premium Backpack 559,Home & Kitchen,143,151052.5,0.64
+8,P00268,Everyday Backpack 268,Fashion,119,143256.29,0.61
+9,P00594,Premium Serum 594,Toys,116,140073.56,0.59
+10,P00265,Everyday Phone 265,Grocery,140,137924.93,0.58

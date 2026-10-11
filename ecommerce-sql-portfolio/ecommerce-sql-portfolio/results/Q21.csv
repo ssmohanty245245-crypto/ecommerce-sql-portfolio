@@ -1,0 +1,9 @@
+acquisition_channel,customers,purchasing_customers,avg_ltv_net_revenue,avg_ltv_gross_profit,avg_orders_per_customer,revenue_per_order,repeat_rate_pct,pct_of_total_revenue
+Direct,1358,1297,2977.0,1103.0,3.29,904.0,84.3,17.5
+Social Media,1306,1240,2933.0,1096.0,3.17,927.0,81.7,16.6
+Organic Search,1908,1840,2881.0,1074.0,3.23,891.0,83.5,23.8
+Email,747,719,2859.0,1070.0,3.22,888.0,84.9,9.3
+Referral,742,713,2838.0,1060.0,3.19,891.0,81.7,9.1
+Paid Search,1349,1291,2833.0,1060.0,3.2,886.0,82.1,16.6
+Affiliate,572,542,2812.0,1043.0,3.22,875.0,85.1,7.0
+Unknown,18,18,2206.0,821.0,2.5,883.0,77.8,0.2

@@ -1,0 +1,7 @@
+payment_method,attempts,successful,failed,pending,refunded,success_rate_pct,failure_rate_pct,successful_value
+Cash on Delivery,5297,4547,377,223,150,85.8,7.1,4139027.95
+Credit Card,5238,4558,329,193,158,87.0,6.3,4124993.45
+Net Banking,5242,4485,360,239,158,85.6,6.9,4087898.13
+Wallet,5161,4447,353,211,150,86.2,6.8,4072397.4
+Debit Card,5144,4403,368,206,167,85.6,7.2,4066094.63
+UPI,5241,4536,372,191,142,86.5,7.1,4054603.69

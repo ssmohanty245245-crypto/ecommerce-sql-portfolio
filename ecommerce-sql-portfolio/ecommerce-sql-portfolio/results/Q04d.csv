@@ -1,0 +1,23 @@
+order_id,order_status,order_total,successful_amount,payment_id,payment_method,payment_amount,payment_status
+O0000001,Delivered,780.19,390.1,PAY00000001,UPI,390.1,Successful
+O0000001,Delivered,780.19,390.1,PAY00000002,Debit Card,390.09,Failed
+O0000190,Delivered,96.98,48.49,PAY00000201,Debit Card,48.49,Refunded
+O0000190,Delivered,96.98,48.49,PAY00000202,Net Banking,48.49,Successful
+O0000379,Delivered,1317.6,658.8,PAY00000394,UPI,658.8,Failed
+O0000379,Delivered,1317.6,658.8,PAY00000395,Net Banking,658.8,Successful
+O0000397,Delivered,1796.5,898.25,PAY00000414,Credit Card,898.25,Successful
+O0000397,Delivered,1796.5,898.25,PAY00000415,Net Banking,898.25,Refunded
+O0000435,Processing,836.37,418.18,PAY00000454,Cash on Delivery,418.19,Pending
+O0000435,Processing,836.37,418.18,PAY00000455,Cash on Delivery,418.18,Successful
+O0000443,Delivered,528.3,264.15,PAY00000463,Debit Card,264.15,Pending
+O0000443,Delivered,528.3,264.15,PAY00000464,UPI,264.15,Successful
+O0000562,Cancelled,215.2,107.6,PAY00000587,Net Banking,107.6,Refunded
+O0000562,Cancelled,215.2,107.6,PAY00000588,UPI,107.6,Successful
+O0000967,Delivered,478.72,239.36,PAY00001002,UPI,239.36,Successful
+O0000967,Delivered,478.72,239.36,PAY00001003,Net Banking,239.36,Failed
+O0001118,Shipped,156.99,78.49,PAY00001159,Cash on Delivery,78.5,Pending
+O0001118,Shipped,156.99,78.49,PAY00001160,Wallet,78.49,Successful
+O0001178,Delivered,2590.04,1295.02,PAY00001225,UPI,1295.02,Pending
+O0001178,Delivered,2590.04,1295.02,PAY00001226,Net Banking,1295.02,Successful
+O0001236,Returned,1098.59,549.29,PAY00001286,Net Banking,549.29,Successful
+O0001236,Returned,1098.59,549.29,PAY00001287,Wallet,549.3,Pending

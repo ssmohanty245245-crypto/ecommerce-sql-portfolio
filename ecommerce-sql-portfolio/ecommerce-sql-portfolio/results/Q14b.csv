@@ -1,0 +1,9 @@
+category,units_eligible,units_returned,unit_return_rate_pct,refund_value,top_return_reason
+Beauty,10878,266,2.45,93373.05,Size/Fit
+Electronics,10567,259,2.45,79861.69,Damaged
+Toys,8761,212,2.42,59387.69,Late Delivery
+Home & Kitchen,9402,223,2.37,73882.89,Size/Fit
+Grocery,9887,233,2.36,64417.73,Size/Fit
+Fashion,8804,207,2.35,67900.25,Not as Described
+Books,9246,210,2.27,55528.13,Size/Fit
+Sports,7526,168,2.23,48415.13,Late Delivery

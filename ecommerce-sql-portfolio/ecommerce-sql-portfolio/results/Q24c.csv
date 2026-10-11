@@ -1,0 +1,11 @@
+bucket,landing_page,traffic_source,sessions,conversion_rate_pct
+Top 5,Blog,Referral,325,15.38
+Top 5,Blog,Paid Search,605,15.37
+Top 5,Blog,Direct,544,14.52
+Top 5,Search,Direct,1146,14.49
+Top 5,Blog,Email,334,14.07
+Bottom 5,Sale,Referral,765,12.29
+Bottom 5,Category,Email,1252,12.14
+Bottom 5,Category,Referral,1133,11.3
+Bottom 5,Sale,Affiliate,588,11.05
+Bottom 5,Sale,Email,864,10.65

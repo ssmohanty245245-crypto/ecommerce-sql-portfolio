@@ -1,0 +1,6 @@
+order_status,orders,orders_with_return_rows
+Delivered,22822,1604
+Cancelled,2373,0
+Returned,1883,131
+Shipped,1756,0
+Processing,1166,0

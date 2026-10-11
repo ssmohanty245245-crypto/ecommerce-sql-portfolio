@@ -1,0 +1,8 @@
+rfm_segment,customers,pct_of_customers,avg_recency_days,avg_orders,avg_net_revenue,total_net_revenue,pct_of_revenue
+Champions,1308,17.1,73.0,5.4,5431.0,7103351.0,30.8
+Loyal Customers,1100,14.4,164.0,4.8,3865.0,4251868.0,18.4
+Potential Loyalists,1240,16.2,148.0,2.9,2678.0,3320566.0,14.4
+Cannot Lose Them,616,8.0,392.0,4.8,4638.0,2856898.0,12.4
+Hibernating / Lost,2004,26.2,522.0,1.6,1315.0,2635790.0,11.4
+At Risk,633,8.3,452.0,3.1,2793.0,1768090.0,7.7
+New / Promising,759,9.9,77.0,2.0,1508.0,1144763.0,5.0

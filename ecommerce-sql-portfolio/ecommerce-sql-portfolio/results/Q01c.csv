@@ -1,0 +1,9 @@
+table_name,total_rows,distinct_keys,duplicate_keys
+customers,8000,8000,0
+products,600,600,0
+campaigns,40,40,0
+orders,30000,30000,0
+order_items,65570,65570,0
+payments,31323,31323,0
+returns,1772,1772,0
+website_sessions,70000,70000,0

@@ -1,0 +1,9 @@
+table_name,row_count
+customers,8000
+products,600
+campaigns,40
+orders,30000
+order_items,65570
+payments,31323
+returns,1772
+website_sessions,70000

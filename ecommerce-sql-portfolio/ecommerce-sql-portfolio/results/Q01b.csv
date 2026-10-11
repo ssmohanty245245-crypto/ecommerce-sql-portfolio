@@ -1,0 +1,9 @@
+date_column,min_date,max_date
+customers.signup_date,2022-01-01,2026-08-31
+products.launch_date,2021-01-01,2026-06-25
+campaigns.start_date,2023-01-27,2026-07-15
+campaigns.end_date,2026-09-01,2026-12-29
+orders.order_date,2024-01-01,2026-09-30
+payments.payment_date,2024-01-01,2026-10-02
+returns.return_date,2024-01-09,2026-10-30
+sessions.session_date,2024-01-01,2026-09-30

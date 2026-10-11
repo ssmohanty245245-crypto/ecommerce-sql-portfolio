@@ -1,0 +1,41 @@
+campaign_id,campaign_name,campaign_channel,attributed_sessions,conversions,conversion_rate_pct,pct_sessions_inside_campaign_window,conversion_rank
+CAM0021,App Install Campaign 21,Email,1764,249,14.12,100.0,1
+CAM0031,Retargeting Campaign 31,Paid Search,1720,242,14.07,100.0,2
+CAM0009,Weekend Campaign 9,Direct,1737,241,13.87,57.0,3
+CAM0015,Festive Campaign 15,Organic Search,1818,252,13.86,97.0,4
+CAM0004,Weekend Campaign 4,Direct,1735,240,13.83,100.0,5
+CAM0038,App Install Campaign 38,Email,1759,241,13.7,39.3,6
+CAM0025,Brand Campaign 25,Organic Search,1804,247,13.69,48.6,7
+CAM0020,App Install Campaign 20,Paid Search,1712,234,13.67,42.9,8
+CAM0019,Retargeting Campaign 19,Social Media,1699,232,13.66,99.4,9
+CAM0027,Brand Campaign 27,Organic Search,1796,245,13.64,53.8,10
+CAM0037,Summer Campaign 37,Social Media,1723,235,13.64,35.3,11
+CAM0023,Brand Campaign 23,Referral,1725,235,13.62,97.9,12
+CAM0005,Retargeting Campaign 5,Affiliate,1728,235,13.6,26.5,13
+CAM0035,New User Campaign 35,Organic Search,1776,241,13.57,50.1,14
+CAM0024,App Install Campaign 24,Affiliate,1708,231,13.52,99.0,15
+CAM0022,Retargeting Campaign 22,Referral,1776,240,13.51,100.0,16
+CAM0030,Retargeting Campaign 30,Affiliate,1774,239,13.47,82.6,17
+CAM0033,App Install Campaign 33,Organic Search,1749,235,13.44,100.0,18
+CAM0032,Clearance Campaign 32,Direct,1726,230,13.33,99.8,19
+CAM0007,Weekend Campaign 7,Social Media,1778,235,13.22,39.0,20
+CAM0039,Weekend Campaign 39,Email,1805,236,13.07,72.5,21
+CAM0029,Weekend Campaign 29,Email,1776,232,13.06,97.4,22
+CAM0011,Retargeting Campaign 11,Social Media,1720,224,13.02,74.9,23
+CAM0006,Clearance Campaign 6,Social Media,1683,218,12.95,74.5,24
+CAM0016,New User Campaign 16,Email,1705,219,12.84,100.0,25
+CAM0028,New User Campaign 28,Direct,1759,225,12.79,34.7,26
+CAM0026,Brand Campaign 26,Affiliate,1771,224,12.65,73.7,27
+CAM0003,Brand Campaign 3,Email,1765,223,12.63,60.6,28
+CAM0014,Weekend Campaign 14,Social Media,1706,215,12.6,5.6,29
+CAM0040,App Install Campaign 40,Paid Search,1800,224,12.44,14.4,30
+CAM0008,New User Campaign 8,Social Media,1753,217,12.38,27.1,31
+CAM0010,New User Campaign 10,Social Media,1756,217,12.36,100.0,32
+CAM0002,New User Campaign 2,Organic Search,1704,210,12.32,18.1,33
+CAM0001,Clearance Campaign 1,Direct,1761,217,12.32,100.0,34
+CAM0013,Clearance Campaign 13,Email,1781,214,12.02,53.5,35
+CAM0018,Festive Campaign 18,Organic Search,1766,211,11.95,100.0,36
+CAM0017,Brand Campaign 17,Social Media,1744,206,11.81,12.5,37
+CAM0012,Retargeting Campaign 12,Referral,1715,198,11.55,38.6,38
+CAM0036,Retargeting Campaign 36,Social Media,1760,202,11.48,18.6,39
+CAM0034,Clearance Campaign 34,Direct,1763,202,11.46,34.1,40

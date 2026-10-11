@@ -1,0 +1,25 @@
+category,rank_in_category,product_id,product_name,units_sold,net_item_revenue,pct_of_category_revenue
+Beauty,1,P00027,Compact Cookware 27,160,472082.75,12.61
+Beauty,2,P00060,Classic Backpack 60,150,181520.32,4.85
+Beauty,3,P00416,Everyday Cookware 416,159,108379.5,2.9
+Books,1,P00255,Compact Coffee 255,151,160775.66,5.82
+Books,2,P00127,Compact T-Shirt 127,131,111692.55,4.04
+Books,3,P00092,Pro Building Set 92,168,101153.22,3.66
+Electronics,1,P00419,Pro Cookware 419,117,136766.37,4.23
+Electronics,2,P00163,Compact Novel 163,163,119232.4,3.69
+Electronics,3,P00053,Pro Cookware 53,150,100345.93,3.1
+Fashion,1,P00578,Premium Coffee 578,130,201173.43,6.53
+Fashion,2,P00137,Compact Phone 137,142,197305.56,6.41
+Fashion,3,P00028,Premium Phone 28,130,156821.69,5.09
+Grocery,1,P00265,Everyday Phone 265,140,137924.93,4.72
+Grocery,2,P00557,Pro Backpack 557,117,121238.34,4.15
+Grocery,3,P00563,Classic Blender 563,125,103390.17,3.54
+Home & Kitchen,1,P00559,Premium Backpack 559,143,151052.5,5.02
+Home & Kitchen,2,P00058,Smart Blender 58,157,116148.98,3.86
+Home & Kitchen,3,P00001,Premium Phone 1,134,106659.55,3.55
+Sports,1,P00094,Everyday Blender 94,116,134937.92,5.59
+Sports,2,P00560,Smart Yoga Mat 560,114,109528.16,4.54
+Sports,3,P00595,Classic Building Set 595,152,101173.02,4.19
+Toys,1,P00594,Premium Serum 594,116,140073.56,5.76
+Toys,2,P00445,Classic Lamp 445,135,96708.91,3.98
+Toys,3,P00340,Ultra Coffee 340,144,94742.75,3.9
